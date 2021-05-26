@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2021-05-26T14:53:35.887Z",
+  "name": "Bollettino del 10 maggio 2021 ore 15:31",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20210510_1531_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20210510_1531_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Lunedì 10 maggio 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Piemonte</b>: Scrivia, Pianura settentrionale, Toce, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Belbo e Bormida<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Bassa pianura occidentale, Nodo idraulico di Milano, Laghi e Prealpi Varesine, Orobie bergamasche, Lario e Prealpi occidentali<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Piemonte</b>: Scrivia, Pianura settentrionale, Toce, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Belbo e Bormida<br /><b>Valle d'Aosta</b>: Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne, Bassa Valle d’Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d’Ayas, Valle di Champorcher e Valle di Gressoney, Valle di Cogne, Valsavarenche e Valle di Rhêmes, Valle d’Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20210510_1531.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20210510_1531.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20210510_1531_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20210510_1531_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20210510_1531_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Martedì 11 maggio 2021:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Piemonte</b>: Toce, Val Sesia, Cervo e Chiusella<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Valchiavenna, Orobie bergamasche, Lario e Prealpi occidentali<br /><b>Piemonte</b>: Toce, Val Sesia, Cervo e Chiusella<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura piacentino-parmense, Montagna emiliana centrale, Collina emiliana centrale, Pianura modenese di Secchia e Panaro, Pianura reggiana di Enza e Crostolo, Pianura reggiana di Po, Montagna piacentino-parmense, Bassa collina piacentino-parmense, Collina bolognese, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Lombardia</b>: Bassa pianura occidentale, Laghi e Prealpi orientali, Nodo idraulico di Milano, Pianura centrale, Valchiavenna, Orobie bergamasche, Lario e Prealpi occidentali, Media-bassa Valtellina<br /><b>Piemonte</b>: Scrivia, Pianura settentrionale, Valli Orco, Lanzo e Sangone, Belbo e Bormida<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Lazio</b>: Bacini Costieri Nord, Aniene, Bacini Costieri Sud, Bacino del Liri, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente, Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Marittimi di Centro<br /><b>Lombardia</b>: Bassa pianura occidentale, Laghi e Prealpi orientali, Nodo idraulico di Milano, Pianura centrale, Alta pianura orientale, Bassa pianura orientale, Laghi e Prealpi Varesine, Orobie bergamasche, Lario e Prealpi occidentali<br /><b>Toscana</b>: Serchio-Costa, Ombrone Gr-Costa, Valdarno Inf., Valdelsa-Valdera, Arno-Costa, Etruria, Fiora e Albegna-Costa e Giglio, Isole, Serchio-Garfagnana-Lima, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Reno, Serchio-Lucca, Versilia<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Umbria</b>: Medio Tevere, Chiani - Paglia, Nera - Corno<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Lazio</b>: Bacini Costieri Nord, Aniene, Bacini Costieri Sud, Bacino del Liri, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Lombardia</b>: Laghi e Prealpi orientali, Nodo idraulico di Milano, Valcamonica, Alta Valtellina, Laghi e Prealpi Varesine, Media-bassa Valtellina<br /><b>Piemonte</b>: Scrivia, Pianura settentrionale, Valli Orco, Lanzo e Sangone, Belbo e Bormida<br /><b>Toscana</b>: Serchio-Costa, Ombrone Gr-Costa, Valdarno Inf., Valdelsa-Valdera, Arno-Costa, Etruria, Fiora e Albegna-Costa e Giglio, Isole, Serchio-Garfagnana-Lima, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Reno, Serchio-Lucca, Versilia<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Valle d'Aosta</b>: Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne, Bassa Valle d’Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d’Ayas, Valle di Champorcher e Valle di Gressoney, Valle di Cogne, Valsavarenche e Valle di Rhêmes, Valle d’Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche<br /><b>Veneto</b>: Alto Brenta-Bacchiglione-Alpone, Adige-Garda e monti Lessini<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20210510_1531.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20210510_1531.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20210510_1531_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20210510_1531_all.zip"
+      }
+    ]
+  }
+}
