@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2021-06-04T20:47:20.084Z",
+  "name": "Bollettino del 12 febbraio 2021 ore 16:05",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210212_1605_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210212_1605_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Venerdì 12 febbraio 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-E2, Basi-E1<br /><b>Emilia Romagna</b>: Pianura modenese di Secchia e Panaro<br /><b>Lazio</b>: Appennino di Rieti<br /><b>Sardegna</b>: Logudoro<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Sardegna</b>: Logudoro<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20210212_1605.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20210212_1605.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20210212_1605_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20210212_1605_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210212_1605_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Sabato 13 febbraio 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-E1, Basi-A1, Basi-D, Basi-C, Basi-B<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>Sardegna</b>: Logudoro, Bacino del Tirso, Bacini Montevecchio - Pischilappiu<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino del Pescara, Bacino Alto del Sangro, Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-E1, Basi-A1, Basi-D, Basi-C, Basi-B<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>Molise</b>: Litoranea, Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Sicilia</b>: Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-E1, Basi-A1, Basi-D, Basi-C, Basi-B<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>Campania</b>: Piana campana, Napoli, Isole e Area vesuviana, Piana Sele e Alto Cilento, Tusciano e Alto Sele, Basso Cilento, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /><b>Lazio</b>: Bacini Costieri Nord, Aniene, Bacini Costieri Sud, Bacino del Liri, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Molise</b>: Litoranea, Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Salento, Puglia Centrale Adriatica, Basso Ofanto, Sub-Appennino Dauno, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Puglia Centrale Bradanica, Gargano e Tremiti, Bacini del Lato e del Lenne<br /><b>Sardegna</b>: Logudoro<br /><b>Sicilia</b>: Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20210212_1605.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20210212_1605.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20210212_1605_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20210212_1605_all.zip"
+      }
+    ]
+  }
+}
