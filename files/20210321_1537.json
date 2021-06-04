@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2021-06-04T21:04:31.308Z",
+  "name": "Bollettino del 21 marzo 2021 ore 15:37",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210321_1537_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210321_1537_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 21 marzo 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-E2, Basi-E1<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>Puglia</b>: Basso Fortore<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-E2, Basi-E1<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>Puglia</b>: Salento, Puglia Centrale Adriatica, Basso Ofanto, Puglia Centrale Bradanica, Bacini del Lato e del Lenne<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-E2, Basi-E1<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>Puglia</b>: Salento, Puglia Centrale Adriatica, Basso Ofanto, Puglia Centrale Bradanica, Bacini del Lato e del Lenne<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20210321_1537.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20210321_1537.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20210321_1537_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20210321_1537_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210321_1537_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 22 marzo 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-E2, Basi-E1<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>Puglia</b>: Basso Fortore<br /><b>Sicilia</b>: Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>Sicilia</b>: Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>Sicilia</b>: Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20210321_1537.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20210321_1537.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20210321_1537_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20210321_1537_all.zip"
+      }
+    ]
+  }
+}
