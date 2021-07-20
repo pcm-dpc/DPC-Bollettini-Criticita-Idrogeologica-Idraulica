@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2021-07-20T19:51:47.464Z",
+  "name": "Bollettino del 14 marzo 2020 ore 14:15",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20200314_1415_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20200314_1415_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 14 marzo 2020:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20200314_1415.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20200314_1415.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20200314_1415_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20200314_1415_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20200314_1415_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 15 marzo 2020:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20200314_1415.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20200314_1415.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20200314_1415_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20200314_1415_all.zip"
+      }
+    ]
+  }
+}
