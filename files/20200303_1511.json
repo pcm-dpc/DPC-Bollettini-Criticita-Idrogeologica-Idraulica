@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2021-07-20T19:39:51.686Z",
+  "name": "Bollettino del 03 marzo 2020 ore 15:11",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20200303_1511_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20200303_1511_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Martedì 3 marzo 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura emiliana centrale, Bacini emiliani orientali, Pianura e costa romagnola, Bacini romagnoli, Pianura emiliana orientale e costa Ferrarese, Bacini emiliani centrali<br /><b>Veneto</b>: Alto Brenta-Bacchiglione-Alpone, Basso Brenta-Bacchiglione e Fratta Gorzone<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Emilia Romagna</b>: Bacini emiliani occidentali, Bacini emiliani orientali, Bacini emiliani centrali<br /><b>Friuli Venezia Giulia</b>: Bacino montano del Tagliamento e del Torre, Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino del Livenza e del Lemene<br /><b>Marche</b>: Marc-1<br /><b>Umbria</b>: Trasimeno - Nestore, Chiani - Paglia, Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20200303_1511.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20200303_1511.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20200303_1511_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20200303_1511_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20200303_1511_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Mercoledì 4 marzo 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura emiliana centrale, Bacini emiliani orientali, Pianura e costa romagnola, Bacini romagnoli, Pianura emiliana orientale e costa Ferrarese, Bacini emiliani centrali<br /><b>Veneto</b>: Alto Brenta-Bacchiglione-Alpone, Basso Brenta-Bacchiglione e Fratta Gorzone<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Sud-Orientale, versante Stretto di Sicilia, Sud-Orientale, versante ionico, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bacini emiliani occidentali, Bacini emiliani orientali, Bacini emiliani centrali<br /><b>Marche</b>: Marc-1<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Sud-Orientale, versante Stretto di Sicilia, Sud-Orientale, versante ionico, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20200303_1511.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20200303_1511.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20200303_1511_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20200303_1511_all.zip"
+      }
+    ]
+  }
+}
