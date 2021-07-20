@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2021-07-20T17:19:03.047Z",
+  "name": "Bollettino del 29 gennaio 2021 ore 15:08",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210129_1508_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210129_1508_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Venerdì 29 gennaio 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino dell'Aterno, Marsica<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20210129_1508.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20210129_1508.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20210129_1508_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20210129_1508_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210129_1508_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Sabato 30 gennaio 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino dell'Aterno, Marsica<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20210129_1508.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20210129_1508.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20210129_1508_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20210129_1508_all.zip"
+      }
+    ]
+  }
+}
