@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2021-07-20T17:37:16.947Z",
+  "name": "Bollettino del 09 gennaio 2021 ore 14:31",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210109_1431_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210109_1431_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 9 gennaio 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale<br /><b>Sardegna</b>: Logudoro<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino del Pescara, Bacino Alto del Sangro, Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale<br /><b>Molise</b>: Litoranea, Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino del Pescara, Bacino Alto del Sangro, Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Bassa collina piacentino-parmense, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Appennino di Rieti, Bacini di Roma<br /><b>Molise</b>: Litoranea, Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Alto Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20210109_1431.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20210109_1431.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20210109_1431_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20210109_1431_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210109_1431_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 10 gennaio 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-E1, Basi-A1, Basi-D, Basi-C, Basi-B<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Jonico Settentrionale<br /><b>Sardegna</b>: Logudoro<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-E1, Basi-A1, Basi-D, Basi-C, Basi-B<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Jonico Settentrionale<br /><b>Molise</b>: Litoranea, Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Salento, Puglia Centrale Adriatica, Basso Ofanto, Sub-Appennino Dauno, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Puglia Centrale Bradanica, Gargano e Tremiti, Bacini del Lato e del Lenne<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino del Pescara, Bacino Alto del Sangro, Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-E1, Basi-A1, Basi-D, Basi-C, Basi-B<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Jonico Settentrionale<br /><b>Campania</b>: Piana campana, Napoli, Isole e Area vesuviana, Piana Sele e Alto Cilento, Tusciano e Alto Sele, Alta Irpinia e Sannio, Alto Volturno e Matese, Basso Cilento, Tanagro, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Lazio</b>: Bacino del Liri<br /><b>Molise</b>: Litoranea, Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Salento, Puglia Centrale Adriatica, Basso Ofanto, Sub-Appennino Dauno, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Puglia Centrale Bradanica, Gargano e Tremiti, Bacini del Lato e del Lenne<br /><b>Umbria</b>: Medio Tevere, Chiascio - Topino, Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Alto Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20210109_1431.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20210109_1431.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20210109_1431_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20210109_1431_all.zip"
+      }
+    ]
+  }
+}
