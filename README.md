@@ -33,11 +33,11 @@ Eventuali aggiornamenti dopo le ore 16:00
 
 ## Collegamenti utili
 * [Rete dei Centri Funzionali](https://servizio-nazionale.protezionecivile.gov.it/it/attivita/previsione/rete-dei-centri-funzionali)
-* [Centro Funzionale Centrale per il rischio meteo-idrogeologico e idraulico](http://www.protezionecivile.gov.it/attivita-rischi/meteo-idro/attivita/previsione-prevenzione/centro-funzionale-centrale-rischio-meteo-idrogeologico)
-* [Allertamento meteo-idro](http://www.protezionecivile.gov.it/attivita-rischi/meteo-idro/attivita/previsione-prevenzione/centro-funzionale-centrale-rischio-meteo-idrogeologico/allertamento-meteo-idro)
+* [Centro Funzionale Centrale per il rischio meteo-idrogeologico e idraulico](https://rischi.protezionecivile.gov.it/it/meteo-idro/attivita/centro-funzionale-centrale)
+* [Allertamento meteo-idro](https://rischi.protezionecivile.gov.it/it/approfondimento/rischio-meteo-idro-lallertamento)
 
 ## Normativa di riferimento
-[Direttiva 27 febbraio 2004: indirizzi operativi per la gestione del sistema di allertamento nazionale per il rischio idrogeologico e idraulico](http://www.protezionecivile.it/amministrazione-trasparente/provvedimenti/dettaglio/-/asset_publisher/default/content/direttiva-27-febbraio-2004-indirizzi-operativi-per-la-gestione-del-sistema-di-allertamento-nazionale-per-il-rischio-idrogeologico-e-idraulico)
+[Direttiva 27 febbraio 2004: indirizzi operativi per la gestione del sistema di allertamento nazionale per il rischio idrogeologico e idraulico](https://www.protezionecivile.gov.it/it/normativa/direttiva-27-febbraio-2004--indirizzi-operativi-per-la-gestione-del-sistema-di-allertamento-nazionale-per-il-rischio-idrogeologico-e-idraulico)
 
 ## Licenza
 
