@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2021-10-24T14:15:30.172Z",
+  "name": "Bollettino del 24 ottobre 2021 ore 16:12",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20211024_1612_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20211024_1612_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 24 ottobre 2021:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ROSSA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ELEVATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ROSSA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Centro-meridionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Centro-meridionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>Puglia</b>: Bacini del Lato e del Lenne, Salento<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>Puglia</b>: Bacini del Lato e del Lenne, Salento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20211024_1612.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20211024_1612.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20211024_1612_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20211024_1612_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20211024_1612_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 25 ottobre 2021:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ROSSA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /><b>ELEVATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ROSSA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Basilicata</b>: Basi-E2, Basi-A2, Basi-E1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Basilicata</b>: Basi-E2, Basi-A2, Basi-E1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-A1<br /><b>Puglia</b>: Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica, Salento<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-A1<br /><b>Puglia</b>: Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica, Salento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20211024_1612.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20211024_1612.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20211024_1612_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20211024_1612_all.zip"
+      }
+    ]
+  }
+}
