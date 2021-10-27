@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2021-10-27T13:58:34.472Z",
+  "name": "Bollettino del 27 ottobre 2021 ore 15:11",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20211027_1511_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20211027_1511_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Mercoledì 27 ottobre 2021:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20211027_1511.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20211027_1511.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20211027_1511_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20211027_1511_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20211027_1511_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Giovedì 28 ottobre 2021:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Sicilia</b>: Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Sicilia</b>: Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Sicilia</b>: Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>Sardegna</b>: Bacini Flumendosa - Flumineddu, Gallura<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20211027_1511.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20211027_1511.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20211027_1511_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20211027_1511_all.zip"
+      }
+    ]
+  }
+}
