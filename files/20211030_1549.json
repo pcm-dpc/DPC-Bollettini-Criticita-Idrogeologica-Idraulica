@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2021-10-30T13:58:54.173Z",
+  "name": "Bollettino del 30 ottobre 2021 ore 15:49",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20211030_1549_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20211030_1549_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 30 ottobre 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20211030_1549.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20211030_1549.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20211030_1549_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20211030_1549_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20211030_1549_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 31 ottobre 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sardegna</b>: Logudoro, Bacini Montevecchio - Pischilappiu, Iglesiente, Gallura, Bacino del Tirso<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20211030_1549.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20211030_1549.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20211030_1549_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20211030_1549_all.zip"
+      }
+    ]
+  }
+}
