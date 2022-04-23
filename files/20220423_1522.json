@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2022-04-23T13:34:08.295Z",
+  "name": "Bollettino del 23 aprile 2022 ore 15:22",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220423_1522_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220423_1522_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 23 aprile 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale, Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Montagna bolognese, Alta collina romagnola, Montagna romagnola<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>Lombardia</b>: Bassa pianura centro-orientale, Bassa pianura orientale, Laghi e Prealpi orientali, Nodo Idraulico di Milano, Pianura centrale, Alta pianura orientale, Bassa pianura occidentale, Bassa pianura centro-occidentale, Lario e Prealpi occidentali, Orobie bergamasche<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Costa, Arno-Casentino, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina bolognese, Montagna bolognese<br /><b>Lombardia</b>: Valchiavenna, Laghi e Prealpi orientali, Nodo Idraulico di Milano, Media-bassa Valtellina, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Costa, Arno-Casentino, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>Valle d'Aosta</b>: Bassa Valle d’Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d’Ayas, Valle di Champorcher e Valle di Gressoney, Valle di Cogne, Valsavarenche e Valle di Rhêmes<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220423_1522.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220423_1522.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220423_1522_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220423_1522_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220423_1522_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 24 aprile 2022:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Alta collina piacentino-parmense, Montagna bolognese<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Collina emiliana centrale, Pianura modenese di Secchia e Panaro, Pianura reggiana di Enza e Crostolo, Alta collina piacentino-parmense, Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Montagna bolognese, Pianura reggiana di Po<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Collina emiliana centrale, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>Lombardia</b>: Bassa pianura centro-orientale, Bassa pianura orientale, Laghi e Prealpi orientali, Nodo Idraulico di Milano, Pianura centrale, Alta pianura orientale, Bassa pianura occidentale, Bassa pianura centro-occidentale, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Costa, Arno-Casentino, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Nera - Corno, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Alta collina piacentino-parmense, Collina bolognese, Montagna bolognese<br /><b>Lombardia</b>: Valchiavenna, Laghi e Prealpi orientali, Nodo Idraulico di Milano, Media-bassa Valtellina, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Costa, Arno-Casentino, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220423_1522.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220423_1522.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220423_1522_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220423_1522_all.zip"
+      }
+    ]
+  }
+}
