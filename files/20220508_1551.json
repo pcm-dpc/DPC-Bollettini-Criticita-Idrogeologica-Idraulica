@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2022-05-08T13:58:58.640Z",
+  "name": "Bollettino del 08 maggio 2022 ore 15:51",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220508_1551_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220508_1551_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 8 maggio 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico, Bacino del Fiume Simeto<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Basso Fortore, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Gargano e Tremiti, Basso Ofanto, Sub-Appennino Dauno, Puglia Centrale Adriatica, Bacini del Lato e del Lenne, Puglia Centrale Bradanica, Salento<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacino Medio Tevere, Appennino di Rieti, Bacini Costieri Nord, Bacini di Roma<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Sardegna</b>: Campidano, Bacini Montevecchio - Pischilappiu, Iglesiente, Bacino del Tirso<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220508_1551.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220508_1551.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220508_1551_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220508_1551_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220508_1551_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 9 maggio 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220508_1551.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220508_1551.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220508_1551_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220508_1551_all.zip"
+      }
+    ]
+  }
+}
