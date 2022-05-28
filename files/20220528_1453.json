@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2022-05-28T13:00:37.082Z",
+  "name": "Bollettino del 28 maggio 2022 ore 14:53",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220528_1453_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220528_1453_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 28 maggio 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino dell'Aterno<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>Emilia Romagna</b>: Costa ferrarese, Pianura ferrarese di Po e Po di volano, Montagna emiliana centrale, Pianura piacentino-parmense, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Collina emiliana centrale, Pianura modenese di Secchia e Panaro, Pianura reggiana di Enza e Crostolo, Alta collina piacentino-parmense, Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Montagna bolognese, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Pianura reggiana di Po, Montagna romagnola<br /><b>Lombardia</b>: Bassa pianura centro-orientale, Bassa pianura orientale, Appennino pavese, Laghi e Prealpi orientali, Nodo Idraulico di Milano, Pianura centrale, Alta pianura orientale, Bassa pianura occidentale, Bassa pianura centro-occidentale, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica<br /><b>Marche</b>: Marc-2, Marc-1, Marc-4<br /><b>Piemonte</b>: Pianura settentrionale, Pianura Torinese e Colline, Pianura Cuneese<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante ionico<br /><b>Toscana</b>: Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Casentino, Lunigiana, Valdelsa-Valdera, Valdarno Inf., Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Nera - Corno, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Basso Piave, Sile e Bacino scolante in laguna, Livenza, Lemene e Tagliamento, Piave pedemontano, Alto Brenta-Bacchiglione-Alpone, Alto Piave, Adige-Garda e monti Lessini, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino dell'Aterno<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Meridionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220528_1453.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220528_1453.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220528_1453_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220528_1453_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220528_1453_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 29 maggio 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Emilia Romagna</b>: Costa ferrarese, Pianura ferrarese di Po e Po di volano, Montagna emiliana centrale, Pianura piacentino-parmense, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Collina emiliana centrale, Pianura modenese di Secchia e Panaro, Pianura reggiana di Enza e Crostolo, Alta collina piacentino-parmense, Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Montagna bolognese, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Pianura reggiana di Po, Montagna romagnola<br /><b>Lombardia</b>: Bassa pianura centro-orientale, Bassa pianura orientale, Appennino pavese, Laghi e Prealpi orientali, Nodo Idraulico di Milano, Pianura centrale, Alta pianura orientale, Bassa pianura occidentale, Bassa pianura centro-occidentale, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica<br /><b>Piemonte</b>: Pianura settentrionale, Pianura Torinese e Colline, Pianura Cuneese<br /><b>Toscana</b>: Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Romagna-Toscana, Arno-Casentino, Lunigiana, Valdarno Inf., Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Serchio-Costa, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Trasimeno - Nestore, Nera - Corno, Chiascio - Topino, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220528_1453.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220528_1453.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220528_1453_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220528_1453_all.zip"
+      }
+    ]
+  }
+}
