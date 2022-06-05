@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2022-06-05T13:02:40.507Z",
+  "name": "Bollettino del 05 giugno 2022 ore 14:55",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220605_1455_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220605_1455_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 5 giugno 2022:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Laghi e Prealpi orientali, Nodo Idraulico di Milano, Pianura centrale, Alta pianura orientale, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa ferrarese<br /><b>Lombardia</b>: Valchiavenna, Bassa pianura occidentale, Bassa pianura centro-occidentale, Media-bassa Valtellina, Alta Valtellina<br /><b>Piemonte</b>: Belbo e Bormida, Pianura settentrionale, Pianura Torinese e Colline<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano, Provincia Autonoma di Trento<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Basso Piave, Sile e Bacino scolante in laguna, Livenza, Lemene e Tagliamento, Piave pedemontano, Alto Brenta-Bacchiglione-Alpone, Alto Piave, Adige-Garda e monti Lessini, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Valchiavenna, Laghi e Prealpi orientali, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano, Provincia Autonoma di Trento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220605_1455.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220605_1455.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220605_1455_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220605_1455_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220605_1455_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 6 giugno 2022:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220605_1455.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220605_1455.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220605_1455_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220605_1455_all.zip"
+      }
+    ]
+  }
+}
