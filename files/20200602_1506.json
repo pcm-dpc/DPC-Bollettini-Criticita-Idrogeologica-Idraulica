@@ -2,41 +2,41 @@
   "type": "first",
   "date": "2021-07-20T21:12:58.238Z",
   "name": "Bollettino del 02 giugno 2020 ore 15:06",
-  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/Legenda_BCR_vert.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200602_1506_style.json",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200602_1506_style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200602_1506_today.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200602_1506_today.json",
     "html_descrition": "<p>Per la giornata di oggi, Martedì 2 giugno 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Orobie bergamasche, Valcamonica, Laghi e Prealpi orientali<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20200602_1506.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20200602_1506.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20200602_1506.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20200602_1506.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20200602_1506_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20200602_1506_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20200602_1506_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20200602_1506_all.zip"
       }
     ]
   },
   "tomorrow": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200602_1506_tomorrow.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200602_1506_tomorrow.json",
     "html_descrition": "<p>Per la giornata di domani, Mercoledì 3 giugno 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Lario e Prealpi occidentali, Orobie bergamasche, Laghi e Prealpi Varesine, Valchiavenna, Laghi e Prealpi orientali<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20200602_1506.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20200602_1506.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20200602_1506.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20200602_1506.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20200602_1506_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20200602_1506_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20200602_1506_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20200602_1506_all.zip"
       }
     ]
   }

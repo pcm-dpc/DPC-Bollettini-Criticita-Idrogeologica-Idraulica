@@ -2,41 +2,41 @@
   "type": "first",
   "date": "2021-07-21T07:56:20.982Z",
   "name": "Bollettino del 15 ottobre 2020 ore 14:44",
-  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/Legenda_BCR_vert.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20201015_1444_style.json",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20201015_1444_style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20201015_1444_today.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20201015_1444_today.json",
     "html_descrition": "<p>Per la giornata di oggi, Giovedì 15 ottobre 2020:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Puglia</b>: Salento, Bacini del Lato e del Lenne<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Campania</b>: Alto Volturno e Matese, Piana Sele e Alto Cilento, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Piana campana, Napoli, Isole e Area vesuviana, Basso Cilento<br /><b>Puglia</b>: Salento, Bacini del Lato e del Lenne<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale<br /><b>Emilia Romagna</b>: Bacini emiliani orientali, Pianura e costa romagnola, Bacini romagnoli<br /><b>Umbria</b>: Chiani - Paglia, Chiascio - Topino, Nera - Corno, Medio Tevere<br /><b>Veneto</b>: Alto Brenta-Bacchiglione-Alpone<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-C, Basi-B, Basi-E2, Basi-E1, Basi-D<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale<br /><b>Emilia Romagna</b>: Pianura emiliana centrale, Bacini emiliani occidentali, Pianura e bassa collina emiliana occidentale, Bacini emiliani orientali, Pianura e costa romagnola, Bacini romagnoli, Pianura emiliana orientale e costa Ferrarese, Bacini emiliani centrali<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti, Puglia Centrale Adriatica, Sub-Appennino Dauno, Basso Ofanto, Puglia Centrale Bradanica<br /><b>Sicilia</b>: Nord-Orientale, versante ionico, Sud-Orientale, versante Stretto di Sicilia, Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Centro-Meridionale e isole Pelagie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie<br /><b>Toscana</b>: Serchio-Costa, Arno-Costa, Isole, Etruria-Costa Nord, Etruria-Costa Sud, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Trasimeno - Nestore, Chiani - Paglia, Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /><b>Veneto</b>: Livenza, Lemene e Tagliamento, Basso Piave, Sile e Bacino scolante in laguna, Basso Brenta-Bacchiglione e Fratta Gorzone, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-C, Basi-B, Basi-E2, Basi-E1, Basi-D<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale<br /><b>Campania</b>: Alta Irpinia e Sannio, Tanagro<br /><b>Emilia Romagna</b>: Bacini emiliani occidentali, Pianura e bassa collina emiliana occidentale, Bacini emiliani orientali, Pianura e costa romagnola, Bacini romagnoli, Bacini emiliani centrali<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacini Costieri Nord, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Lombardia</b>: Laghi e Prealpi orientali, Pianura centrale, Alta pianura orientale, Bassa pianura orientale, Appennino pavese<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti, Puglia Centrale Adriatica, Sub-Appennino Dauno, Basso Ofanto, Puglia Centrale Bradanica<br /><b>Sicilia</b>: Nord-Orientale, versante ionico, Sud-Orientale, versante Stretto di Sicilia, Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Centro-Meridionale e isole Pelagie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie<br /><b>Toscana</b>: Serchio-Costa, Arno-Costa, Isole, Etruria-Costa Nord, Etruria-Costa Sud, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Trasimeno - Nestore, Chiani - Paglia, Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20201015_1444.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20201015_1444.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20201015_1444.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20201015_1444.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20201015_1444_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20201015_1444_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20201015_1444_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20201015_1444_all.zip"
       }
     ]
   },
   "tomorrow": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20201015_1444_tomorrow.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20201015_1444_tomorrow.json",
     "html_descrition": "<p>Per la giornata di domani, Venerdì 16 ottobre 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Calabria</b>: Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Serchio-Costa, Arno-Costa, Isole, Etruria-Costa Nord, Etruria-Costa Sud, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Trasimeno - Nestore, Chiani - Paglia, Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Calabria</b>: Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Campania</b>: Alto Volturno e Matese, Piana Sele e Alto Cilento, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Piana campana, Napoli, Isole e Area vesuviana, Basso Cilento<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacini Costieri Nord, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Serchio-Costa, Arno-Costa, Isole, Etruria-Costa Nord, Etruria-Costa Sud, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20201015_1444.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20201015_1444.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20201015_1444.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20201015_1444.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20201015_1444_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20201015_1444_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20201015_1444_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20201015_1444_all.zip"
       }
     ]
   }

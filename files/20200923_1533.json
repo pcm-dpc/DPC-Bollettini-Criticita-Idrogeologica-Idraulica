@@ -2,41 +2,41 @@
   "type": "errataCorrige",
   "date": "2021-07-21T07:08:25.144Z",
   "name": "Bollettino del 23 settembre 2020, errata corrige delle ore 15:33",
-  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/Legenda_BCR_vert.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200923_1533_style.json",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200923_1533_style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200923_1533_today.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200923_1533_today.json",
     "html_descrition": "<p>Per la giornata di oggi, Mercoledì 23 settembre 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Nodo idraulico di Milano<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-C, Basi-D<br /><b>Emilia Romagna</b>: Bacini emiliani occidentali, Bacini emiliani orientali, Bacini emiliani centrali<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacini Costieri Nord, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante<br /><b>Lombardia</b>: Bassa pianura occidentale, Lario e Prealpi occidentali, Orobie bergamasche, Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Nodo idraulico di Milano, Pianura centrale, Alta pianura orientale, Appennino pavese<br /><b>Marche</b>: Marc-3, Marc-2, Marc-1, Marc-6, Marc-5, Marc-4<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Salento, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti, Puglia Centrale Adriatica, Sub-Appennino Dauno, Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica<br /><b>Toscana</b>: Ombrone Gr-Medio, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Valdelsa-Valdera, Arno-Costa, Etruria, Fiora e Albegna, Fiora e Albegna-Costa e Giglio, Isole, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Serchio-Lucca, Versilia, Ombrone Gr-Costa<br /><b>Umbria</b>: Trasimeno - Nestore, Chiani - Paglia, Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /><b>Veneto</b>: Livenza, Lemene e Tagliamento, Basso Piave, Sile e Bacino scolante in laguna, Basso Brenta-Bacchiglione e Fratta Gorzone, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bacini emiliani occidentali, Bacini emiliani orientali, Bacini emiliani centrali<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacini Costieri Nord, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Lombardia</b>: Lario e Prealpi occidentali, Orobie bergamasche, Laghi e Prealpi Varesine, Nodo idraulico di Milano<br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Salento, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti, Puglia Centrale Adriatica, Sub-Appennino Dauno, Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica<br /><b>Toscana</b>: Ombrone Gr-Medio, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Valdelsa-Valdera, Arno-Costa, Etruria, Fiora e Albegna, Fiora e Albegna-Costa e Giglio, Isole, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Serchio-Lucca, Versilia, Ombrone Gr-Costa<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20200923_1533.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20200923_1533.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20200923_1533.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20200923_1533.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20200923_1533_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20200923_1533_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20200923_1533_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20200923_1533_all.zip"
       }
     ]
   },
   "tomorrow": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200923_1533_tomorrow.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200923_1533_tomorrow.json",
     "html_descrition": "<p>Per la giornata di domani, Giovedì 24 settembre 2020:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Pianura emiliana centrale, Bacini emiliani occidentali, Bacini emiliani orientali, Pianura emiliana orientale e costa Ferrarese, Bacini emiliani centrali<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Bacini emiliani occidentali, Bacini emiliani orientali, Bacini emiliani centrali<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bacini emiliani occidentali, Bacini emiliani orientali, Bacini emiliani centrali<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura e bassa collina emiliana occidentale, Pianura e costa romagnola, Bacini romagnoli<br /><b>Lazio</b>: Bacini Costieri Nord, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro<br /><b>Lombardia</b>: Bassa pianura occidentale, Lario e Prealpi occidentali, Orobie bergamasche, Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Nodo idraulico di Milano, Pianura centrale, Alta pianura orientale, Appennino pavese<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Ombrone Gr-Medio, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Valdelsa-Valdera, Arno-Costa, Etruria, Fiora e Albegna, Fiora e Albegna-Costa e Giglio, Isole, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Serchio-Lucca, Versilia, Ombrone Gr-Costa<br /><b>Umbria</b>: Trasimeno - Nestore, Chiani - Paglia, Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /><b>Veneto</b>: Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Piave pedemontano, Livenza, Lemene e Tagliamento, Basso Piave, Sile e Bacino scolante in laguna, Basso Brenta-Bacchiglione e Fratta Gorzone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Alto Piave<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura e bassa collina emiliana occidentale, Bacini romagnoli<br /><b>Lazio</b>: Bacini Costieri Nord, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Lombardia</b>: Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica, Laghi e Prealpi Varesine, Valchiavenna, Laghi e Prealpi orientali, Nodo idraulico di Milano<br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Ombrone Gr-Medio, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Valdelsa-Valdera, Arno-Costa, Etruria, Fiora e Albegna, Fiora e Albegna-Costa e Giglio, Isole, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Serchio-Lucca, Versilia, Ombrone Gr-Costa<br /><b>Umbria</b>: Nera - Corno, Medio Tevere<br /><b>Veneto</b>: Alto Brenta-Bacchiglione-Alpone, Piave pedemontano, Livenza, Lemene e Tagliamento, Basso Piave, Sile e Bacino scolante in laguna, Basso Brenta-Bacchiglione e Fratta Gorzone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Alto Piave<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20200923_1533.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20200923_1533.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20200923_1533.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20200923_1533.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20200923_1533_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20200923_1533_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20200923_1533_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20200923_1533_all.zip"
       }
     ]
   }

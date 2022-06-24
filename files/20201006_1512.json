@@ -2,41 +2,41 @@
   "type": "first",
   "date": "2021-07-21T07:48:32.206Z",
   "name": "Bollettino del 06 ottobre 2020 ore 15:12",
-  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/Legenda_BCR_vert.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20201006_1512_style.json",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20201006_1512_style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20201006_1512_today.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20201006_1512_today.json",
     "html_descrition": "<p>Per la giornata di oggi, Martedì 6 ottobre 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura emiliana centrale, Pianura e bassa collina emiliana occidentale, Pianura emiliana orientale e costa Ferrarese<br /><b>Lombardia</b>: Lario e Prealpi occidentali, Laghi e Prealpi Varesine, Bassa pianura orientale<br /><b>Piemonte</b>: Toce<br /><b>Veneto</b>: Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Puglia</b>: Salento, Bacini del Lato e del Lenne<br /><b>Toscana</b>: Mugello-Val di Sieve, Ombrone Gr-Alto, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Valdelsa-Valdera, Arno-Costa, Valdichiana, Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Bisenzio e Ombrone Pt, Reno, Romagna-Toscana, Serchio-Lucca, Versilia, Valtiberina<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Piemonte</b>: Toce<br /><b>Puglia</b>: Salento, Bacini del Lato e del Lenne<br /><b>Toscana</b>: Mugello-Val di Sieve, Ombrone Gr-Alto, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Valdelsa-Valdera, Arno-Costa, Valdichiana, Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Bisenzio e Ombrone Pt, Reno, Romagna-Toscana, Serchio-Lucca, Versilia, Valtiberina<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20201006_1512.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20201006_1512.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20201006_1512.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20201006_1512.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20201006_1512_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20201006_1512_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20201006_1512_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20201006_1512_all.zip"
       }
     ]
   },
   "tomorrow": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20201006_1512_tomorrow.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20201006_1512_tomorrow.json",
     "html_descrition": "<p>Per la giornata di domani, Mercoledì 7 ottobre 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale<br /><b>Emilia Romagna</b>: Pianura emiliana centrale, Pianura emiliana orientale e costa Ferrarese<br /><b>Lombardia</b>: Lario e Prealpi occidentali, Laghi e Prealpi Varesine, Bassa pianura orientale<br /><b>Veneto</b>: Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Basso del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacini Tordino Vomano, Marsica, Bacino Alto del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-C, Basi-B, Basi-E2, Basi-E1, Basi-D<br /><b>Calabria</b>: Versante Tirrenico Settentrionale<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacini Costieri Nord, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Marche</b>: Marc-3, Marc-2, Marc-1, Marc-6, Marc-5, Marc-4<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Salento, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti, Puglia Centrale Adriatica, Sub-Appennino Dauno, Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica<br /><b>Toscana</b>: Mugello-Val di Sieve, Ombrone Gr-Alto, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Valdelsa-Valdera, Arno-Costa, Valdichiana, Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Bisenzio e Ombrone Pt, Reno, Romagna-Toscana, Serchio-Lucca, Versilia, Valtiberina<br /><b>Umbria</b>: Trasimeno - Nestore, Chiani - Paglia, Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Basso del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacini Tordino Vomano, Marsica, Bacino Alto del Sangro<br /><b>Calabria</b>: Versante Tirrenico Settentrionale<br /><b>Campania</b>: Piana Sele e Alto Cilento, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Piana campana, Napoli, Isole e Area vesuviana, Basso Cilento, Tanagro<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacini Costieri Nord, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Salento, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti, Puglia Centrale Adriatica, Sub-Appennino Dauno, Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica<br /><b>Toscana</b>: Mugello-Val di Sieve, Ombrone Gr-Alto, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Valdelsa-Valdera, Arno-Costa, Valdichiana, Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Bisenzio e Ombrone Pt, Reno, Romagna-Toscana, Serchio-Lucca, Versilia, Valtiberina<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20201006_1512.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20201006_1512.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20201006_1512.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20201006_1512.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20201006_1512_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20201006_1512_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20201006_1512_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20201006_1512_all.zip"
       }
     ]
   }

@@ -2,41 +2,41 @@
   "type": "first",
   "date": "2021-07-21T06:20:02.314Z",
   "name": "Bollettino del 02 agosto 2020 ore 15:00",
-  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/Legenda_BCR_vert.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200802_1500_style.json",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200802_1500_style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200802_1500_today.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200802_1500_today.json",
     "html_descrition": "<p>Per la giornata di oggi, Domenica 2 agosto 2020:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Nodo idraulico di Milano, Pianura centrale, Alta pianura orientale<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Bassa pianura occidentale, Media-bassa Valtellina, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica, Laghi e Prealpi Varesine, Alta Valtellina, Valchiavenna, Laghi e Prealpi orientali, Nodo idraulico di Milano, Pianura centrale, Alta pianura orientale, Bassa pianura orientale, Appennino pavese<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Orobie bergamasche, Laghi e Prealpi orientali<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura emiliana centrale, Bacini emiliani occidentali, Pianura e bassa collina emiliana occidentale, Bacini emiliani orientali, Pianura e costa romagnola, Bacini romagnoli, Pianura emiliana orientale e costa Ferrarese, Bacini emiliani centrali<br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino montano del Tagliamento e del Torre, Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino del Livenza e del Lemene<br /><b>Marche</b>: Marc-3, Marc-1, Marc-5<br /><b>Piemonte</b>: Valli Varaita, Maira e Stura, Valli Susa, Chisone, Pellice e Po, Valli Orco, Lanzo e Sangone, Val Sesia, Cervo e Chiusella, Toce, Pianura Cuneese, Pianura Torinese e Colline, Pianura settentrionale, Scrivia, Belbo e Bormida, Valle Tanaro<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Alto Tevere<br /><b>Veneto</b>: Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Piave pedemontano, Livenza, Lemene e Tagliamento, Basso Piave, Sile e Bacino scolante in laguna, Basso Brenta-Bacchiglione e Fratta Gorzone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Alto Piave<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Bassa pianura occidentale, Lario e Prealpi occidentali, Valcamonica, Laghi e Prealpi Varesine, Nodo idraulico di Milano, Pianura centrale, Alta pianura orientale, Bassa pianura orientale<br /><b>Piemonte</b>: Pianura Torinese e Colline, Pianura settentrionale, Belbo e Bormida<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20200802_1500.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20200802_1500.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20200802_1500.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20200802_1500.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20200802_1500_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20200802_1500_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20200802_1500_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20200802_1500_all.zip"
       }
     ]
   },
   "tomorrow": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200802_1500_tomorrow.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200802_1500_tomorrow.json",
     "html_descrition": "<p>Per la giornata di domani, Lunedì 3 agosto 2020:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Nodo idraulico di Milano, Pianura centrale, Alta pianura orientale<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Pianura emiliana centrale, Bacini emiliani occidentali, Pianura e bassa collina emiliana occidentale, Pianura emiliana orientale e costa Ferrarese<br /><b>Lombardia</b>: Bassa pianura occidentale, Orobie bergamasche, Laghi e Prealpi orientali, Nodo idraulico di Milano, Pianura centrale, Alta pianura orientale, Bassa pianura orientale, Appennino pavese<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Orobie bergamasche, Laghi e Prealpi orientali<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura emiliana centrale, Bacini emiliani occidentali, Pianura e bassa collina emiliana occidentale, Pianura emiliana orientale e costa Ferrarese<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bacini emiliani orientali, Pianura e costa romagnola, Bacini romagnoli, Bacini emiliani centrali<br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino montano del Tagliamento e del Torre, Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino del Livenza e del Lemene<br /><b>Liguria</b>: Bacini Liguri Padani di Ponente, Bacini Liguri Marittimi di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro<br /><b>Lombardia</b>: Media-bassa Valtellina, Lario e Prealpi occidentali, Valcamonica, Laghi e Prealpi Varesine, Alta Valtellina, Valchiavenna<br /><b>Marche</b>: Marc-3, Marc-2, Marc-1, Marc-6, Marc-5, Marc-4<br /><b>Piemonte</b>: Valli Varaita, Maira e Stura, Valli Susa, Chisone, Pellice e Po, Valli Orco, Lanzo e Sangone, Val Sesia, Cervo e Chiusella, Toce, Pianura Cuneese, Pianura Torinese e Colline, Pianura settentrionale, Scrivia, Belbo e Bormida, Valle Tanaro<br /><b>Toscana</b>: Mugello-Val di Sieve, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Arno-Casentino, Bisenzio e Ombrone Pt, Lunigiana, Reno, Romagna-Toscana, Serchio-Lucca, Versilia<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Umbria</b>: Trasimeno - Nestore, Chiani - Paglia, Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /><b>Veneto</b>: Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Piave pedemontano, Livenza, Lemene e Tagliamento, Basso Piave, Sile e Bacino scolante in laguna, Basso Brenta-Bacchiglione e Fratta Gorzone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Alto Piave<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bacini emiliani occidentali, Pianura e bassa collina emiliana occidentale<br /><b>Lombardia</b>: Bassa pianura occidentale, Lario e Prealpi occidentali, Valcamonica, Laghi e Prealpi Varesine, Nodo idraulico di Milano, Pianura centrale, Alta pianura orientale, Bassa pianura orientale<br /><b>Piemonte</b>: Valli Varaita, Maira e Stura, Pianura Cuneese, Pianura Torinese e Colline, Pianura settentrionale, Belbo e Bormida, Valle Tanaro<br /><b>Toscana</b>: Mugello-Val di Sieve, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Arno-Casentino, Bisenzio e Ombrone Pt, Lunigiana, Reno, Romagna-Toscana, Serchio-Lucca, Versilia<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20200802_1500.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20200802_1500.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20200802_1500.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20200802_1500.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20200802_1500_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20200802_1500_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20200802_1500_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20200802_1500_all.zip"
       }
     ]
   }

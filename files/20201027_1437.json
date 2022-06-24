@@ -2,41 +2,41 @@
   "type": "first",
   "date": "2021-07-21T08:06:41.231Z",
   "name": "Bollettino del 27 ottobre 2020 ore 14:37",
-  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/Legenda_BCR_vert.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20201027_1437_style.json",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20201027_1437_style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20201027_1437_today.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20201027_1437_today.json",
     "html_descrition": "<p>Per la giornata di oggi, Martedì 27 ottobre 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie<br /><b>Veneto</b>: Adige-Garda e monti Lessini, Livenza, Lemene e Tagliamento, Basso Brenta-Bacchiglione e Fratta Gorzone, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-C, Basi-B, Basi-E2, Basi-E1, Basi-D<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale<br /><b>Puglia</b>: Salento, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti, Puglia Centrale Adriatica, Sub-Appennino Dauno, Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica<br /><b>Sicilia</b>: Nord-Orientale, versante ionico, Sud-Orientale, versante Stretto di Sicilia, Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Centro-Meridionale e isole Pelagie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-C, Basi-E2, Basi-E1, Basi-D<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale<br /><b>Campania</b>: Alto Volturno e Matese, Piana Sele e Alto Cilento, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Piana campana, Napoli, Isole e Area vesuviana, Basso Cilento<br /><b>Puglia</b>: Salento, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti, Puglia Centrale Adriatica, Sub-Appennino Dauno, Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica<br /><b>Sicilia</b>: Nord-Orientale, versante ionico, Sud-Orientale, versante Stretto di Sicilia, Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Centro-Meridionale e isole Pelagie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20201027_1437.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20201027_1437.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20201027_1437.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20201027_1437.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20201027_1437_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20201027_1437_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20201027_1437_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20201027_1437_all.zip"
       }
     ]
   },
   "tomorrow": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20201027_1437_tomorrow.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20201027_1437_tomorrow.json",
     "html_descrition": "<p>Per la giornata di domani, Mercoledì 28 ottobre 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie<br /><b>Veneto</b>: Adige-Garda e monti Lessini, Livenza, Lemene e Tagliamento, Basso Brenta-Bacchiglione e Fratta Gorzone, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-C, Basi-B, Basi-E2, Basi-E1, Basi-D<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale<br /><b>Puglia</b>: Salento, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti, Puglia Centrale Adriatica, Sub-Appennino Dauno, Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica<br /><b>Sicilia</b>: Nord-Orientale, versante ionico, Nord-Occidentale e isole Egadi e Ustica, Bacino del Fiume Simeto, Sud-Occidentale e isola di Pantelleria, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale<br /><b>Puglia</b>: Salento, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti, Puglia Centrale Adriatica, Sub-Appennino Dauno, Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica<br /><b>Sicilia</b>: Nord-Orientale, versante ionico, Nord-Occidentale e isole Egadi e Ustica, Bacino del Fiume Simeto, Sud-Occidentale e isola di Pantelleria, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20201027_1437.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20201027_1437.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20201027_1437.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20201027_1437.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20201027_1437_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20201027_1437_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20201027_1437_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20201027_1437_all.zip"
       }
     ]
   }

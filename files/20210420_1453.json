@@ -2,41 +2,41 @@
   "type": "first",
   "date": "2021-06-04T20:36:40.193Z",
   "name": "Bollettino del 20 aprile 2021 ore 14:53",
-  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/Legenda_BCR_vert.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20210420_1453_style.json",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20210420_1453_style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20210420_1453_today.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20210420_1453_today.json",
     "html_descrition": "<p>Per la giornata di oggi, Martedì 20 aprile 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino dell'Aterno, Marsica<br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-E1, Basi-A1, Basi-D, Basi-C, Basi-B<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>Emilia Romagna</b>: Pianura piacentino-parmense, Costa ferrarese, Pianura ferrarese di Po e Po di volano, Pianura bolognese di Reno e suoi affluenti, Montagna emiliana centrale, Collina emiliana centrale, Pianura modenese di Secchia e Panaro, Pianura reggiana di Enza e Crostolo, Pianura reggiana di Po, Montagna piacentino-parmense, Bassa collina piacentino-parmense, Alta collina romagnola, Montagna romagnola, Collina bolognese, Alta collina piacentino-parmense, Montagna bolognese, Costa romagnola, Bassa collina e pianura romagnola<br /><b>Puglia</b>: Puglia Centrale Adriatica, Basso Ofanto, Sub-Appennino Dauno, Puglia Centrale Bradanica, Bacini del Lato e del Lenne<br /><b>Umbria</b>: Medio Tevere, Chiani - Paglia, Nera - Corno, Trasimeno - Nestore<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino dell'Aterno, Marsica<br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-E1, Basi-A1, Basi-D, Basi-C, Basi-B<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>Lazio</b>: Aniene, Bacino del Liri, Appennino di Rieti<br /><b>Puglia</b>: Puglia Centrale Adriatica, Basso Ofanto, Sub-Appennino Dauno, Puglia Centrale Bradanica, Bacini del Lato e del Lenne<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20210420_1453.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20210420_1453.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20210420_1453.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20210420_1453.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20210420_1453_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20210420_1453_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20210420_1453_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20210420_1453_all.zip"
       }
     ]
   },
   "tomorrow": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20210420_1453_tomorrow.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20210420_1453_tomorrow.json",
     "html_descrition": "<p>Per la giornata di domani, Mercoledì 21 aprile 2021:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20210420_1453.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20210420_1453.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20210420_1453.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20210420_1453.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20210420_1453_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20210420_1453_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20210420_1453_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20210420_1453_all.zip"
       }
     ]
   }

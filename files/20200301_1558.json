@@ -2,41 +2,41 @@
   "type": "first",
   "date": "2021-07-20T19:37:42.163Z",
   "name": "Bollettino del 01 marzo 2020 ore 15:58",
-  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/Legenda_BCR_vert.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200301_1558_style.json",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200301_1558_style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200301_1558_today.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200301_1558_today.json",
     "html_descrition": "<p>Per la giornata di oggi, Domenica 1 marzo 2020:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20200301_1558.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20200301_1558.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20200301_1558.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20200301_1558.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20200301_1558_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20200301_1558_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20200301_1558_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20200301_1558_all.zip"
       }
     ]
   },
   "tomorrow": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20200301_1558_tomorrow.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200301_1558_tomorrow.json",
     "html_descrition": "<p>Per la giornata di domani, Lunedì 2 marzo 2020:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Veneto</b>: Piave pedemontano<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura emiliana centrale, Bacini emiliani occidentali, Pianura e bassa collina emiliana occidentale, Bacini emiliani orientali, Bacini emiliani centrali<br /><b>Toscana</b>: Serchio-Garfagnana-Lima, Serchio-Costa, Bisenzio e Ombrone Pt, Lunigiana, Serchio-Lucca<br /><b>Veneto</b>: Piave pedemontano<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacini Costieri Nord, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Liguria</b>: Bacini Liguri Padani di Ponente, Bacini Liguri Marittimi di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Umbria</b>: Trasimeno - Nestore, Chiani - Paglia, Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Emilia Romagna</b>: Bacini emiliani occidentali, Pianura e bassa collina emiliana occidentale, Bacini emiliani orientali, Bacini emiliani centrali<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacini Costieri Nord, Bacino Medio Tevere, Appennino di Rieti, Bacini di Roma<br /><b>Liguria</b>: Bacini Liguri Padani di Ponente, Bacini Liguri Marittimi di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro<br /><b>Lombardia</b>: Bassa pianura occidentale, Orobie bergamasche, Laghi e Prealpi orientali, Nodo idraulico di Milano, Pianura centrale, Appennino pavese<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Mugello-Val di Sieve, Serchio-Garfagnana-Lima, Serchio-Costa, Valdarno Inf., Arno-Casentino, Bisenzio e Ombrone Pt, Lunigiana, Reno, Romagna-Toscana, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Trasimeno - Nestore, Chiani - Paglia, Chiascio - Topino, Nera - Corno, Alto Tevere, Medio Tevere<br /><b>Veneto</b>: Alto Brenta-Bacchiglione-Alpone, Livenza, Lemene e Tagliamento, Basso Piave, Sile e Bacino scolante in laguna, Basso Brenta-Bacchiglione e Fratta Gorzone<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20200301_1558.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20200301_1558.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20200301_1558.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20200301_1558.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20200301_1558_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20200301_1558_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20200301_1558_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20200301_1558_all.zip"
       }
     ]
   }
