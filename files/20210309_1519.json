@@ -2,41 +2,41 @@
   "type": "first",
   "date": "2021-06-05T14:21:29.735Z",
   "name": "Bollettino del 09 marzo 2021 ore 15:19",
-  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/Legenda_BCR_vert.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210309_1519_style.json",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20210309_1519_style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210309_1519_today.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20210309_1519_today.json",
     "html_descrition": "<p>Per la giornata di oggi, Martedì 9 marzo 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Lazio</b>: Bacini Costieri Sud, Appennino di Rieti<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino del Pescara, Bacino Alto del Sangro, Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-D, Basi-C<br /><b>Campania</b>: Piana campana, Napoli, Isole e Area vesuviana, Piana Sele e Alto Cilento, Tusciano e Alto Sele, Alto Volturno e Matese, Basso Cilento, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /><b>Molise</b>: Litoranea, Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Sub-Appennino Dauno, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti<br /><b>Umbria</b>: Medio Tevere, Chiascio - Topino, Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino del Pescara, Bacino Alto del Sangro, Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-D, Basi-C<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Appennino di Rieti<br /><b>Marche</b>: Marc-6, Marc-5<br /><b>Molise</b>: Litoranea, Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Sub-Appennino Dauno, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore, Gargano e Tremiti<br /><b>Umbria</b>: Medio Tevere, Chiascio - Topino, Nera - Corno<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20210309_1519.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20210309_1519.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20210309_1519.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20210309_1519.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20210309_1519_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20210309_1519_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20210309_1519_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20210309_1519_all.zip"
       }
     ]
   },
   "tomorrow": {
-    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/topojson/20210309_1519_tomorrow.json",
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/topojson/20210309_1519_tomorrow.json",
     "html_descrition": "<p>Per la giornata di domani, Mercoledì 10 marzo 2021:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale<br /><b>Lazio</b>: Bacini Costieri Sud, Appennino di Rieti<br /><b>Puglia</b>: Basso Fortore<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale<br /><b>Campania</b>: Piana campana, Napoli, Isole e Area vesuviana, Piana Sele e Alto Cilento, Tusciano e Alto Sele, Alto Volturno e Matese, Basso Cilento, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /><b>Molise</b>: Litoranea, Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Sicilia</b>: Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie, Nord-Occidentale e isole Egadi e Ustica<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino del Pescara, Bacino Alto del Sangro, Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Appennino di Rieti<br /><b>Molise</b>: Litoranea, Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Sicilia</b>: Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante tirrenico e isole Eolie, Nord-Occidentale e isole Egadi e Ustica<br /> </p>",
     "attachment": [
       {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/pdf/20210309_1519.zip"
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/pdf/20210309_1519.zip"
       },
       {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/xml/20210309_1519.zip"
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/xml/20210309_1519.zip"
       },
       {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/shp/20210309_1519_shp.zip"
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/shp/20210309_1519_shp.zip"
       },
       {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/bollettini-criticita-dev/master/BCR/all/20210309_1519_all.zip"
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/BCR/all/20210309_1519_all.zip"
       }
     ]
   }
