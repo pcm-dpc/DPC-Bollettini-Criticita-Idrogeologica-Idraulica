@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2022-07-23T12:18:57.750Z",
+  "name": "Bollettino del 23 luglio 2022 ore 14:12",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220723_1412_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220723_1412_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 23 luglio 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Appennino pavese, Valchiavenna, Laghi e Prealpi orientali, Nodo Idraulico di Milano, Pianura centrale, Alta pianura orientale, Bassa pianura occidentale, Bassa pianura centro-occidentale, Media-bassa Valtellina, Alta Valtellina, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Basso Piave, Sile e Bacino scolante in laguna, Livenza, Lemene e Tagliamento, Piave pedemontano, Alto Brenta-Bacchiglione-Alpone, Alto Piave, Adige-Garda e monti Lessini<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220723_1412.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220723_1412.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220723_1412_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220723_1412_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220723_1412_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 24 luglio 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Basso Piave, Sile e Bacino scolante in laguna, Livenza, Lemene e Tagliamento, Piave pedemontano, Alto Brenta-Bacchiglione-Alpone, Alto Piave, Adige-Garda e monti Lessini<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220723_1412.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220723_1412.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220723_1412_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220723_1412_all.zip"
+      }
+    ]
+  }
+}
