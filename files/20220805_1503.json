@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2022-08-05T13:26:55.730Z",
+  "name": "Bollettino del 05 agosto 2022 ore 15:03",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220805_1503_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220805_1503_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Venerdì 5 agosto 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Piemonte</b>: Toce, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano, Provincia Autonoma di Trento<br /><b>Veneto</b>: Alto Piave<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano, Provincia Autonoma di Trento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220805_1503.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220805_1503.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220805_1503_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220805_1503_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220805_1503_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Sabato 6 agosto 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Piemonte</b>: Toce, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone<br /><b>Toscana</b>: Reno, Serchio-Garfagnana-Lima, Lunigiana, Serchio-Lucca<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano, Provincia Autonoma di Trento<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Basso Piave, Sile e Bacino scolante in laguna, Livenza, Lemene e Tagliamento, Piave pedemontano, Alto Brenta-Bacchiglione-Alpone, Alto Piave, Adige-Garda e monti Lessini, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano, Provincia Autonoma di Trento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220805_1503.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220805_1503.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220805_1503_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220805_1503_all.zip"
+      }
+    ]
+  }
+}
