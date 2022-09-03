@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2022-09-03T13:32:30.899Z",
+  "name": "Bollettino del 03 settembre 2022 ore 15:23",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220903_1523_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220903_1523_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 3 settembre 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa ferrarese, Pianura ferrarese di Po e Po di volano, Montagna emiliana centrale, Pianura piacentino-parmense, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Collina emiliana centrale, Pianura modenese di Secchia e Panaro, Pianura reggiana di Enza e Crostolo, Alta collina piacentino-parmense, Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Montagna bolognese, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Pianura reggiana di Po, Montagna romagnola<br /><b>Lazio</b>: Bacino Medio Tevere, Bacini Costieri Nord<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Ombrone Gr-Medio, Arno-Costa, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Etruria, Fiora e Albegna, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Nera - Corno, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lazio</b>: Bacino Medio Tevere, Bacini Costieri Nord<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Ombrone Gr-Medio, Arno-Costa, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Etruria, Fiora e Albegna, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220903_1523.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220903_1523.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220903_1523_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220903_1523_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220903_1523_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 4 settembre 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tanagro, Tusciano e Alto Sele, Alta Irpinia e Sannio, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacino Medio Tevere, Appennino di Rieti, Bacini Costieri Nord, Bacini di Roma<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Basso Fortore, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Gargano e Tremiti, Basso Ofanto, Sub-Appennino Dauno, Puglia Centrale Adriatica, Bacini del Lato e del Lenne, Puglia Centrale Bradanica, Salento<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Ombrone Gr-Medio, Isole, Etruria-Costa Sud, Etruria-Costa Nord, Etruria, Fiora e Albegna, Ombrone Gr-Costa<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Nera - Corno, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacino Medio Tevere, Appennino di Rieti, Bacini Costieri Nord, Bacini di Roma<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Basso Fortore, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Gargano e Tremiti, Basso Ofanto, Sub-Appennino Dauno, Puglia Centrale Adriatica, Bacini del Lato e del Lenne, Puglia Centrale Bradanica, Salento<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Ombrone Gr-Medio, Isole, Etruria-Costa Sud, Etruria-Costa Nord, Etruria, Fiora e Albegna, Ombrone Gr-Costa<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220903_1523.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220903_1523.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220903_1523_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220903_1523_all.zip"
+      }
+    ]
+  }
+}
