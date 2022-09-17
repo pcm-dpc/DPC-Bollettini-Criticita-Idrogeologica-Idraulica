@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2022-09-17T13:59:40.099Z",
+  "name": "Bollettino del 17 settembre 2022 ore 15:53",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220917_1553_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220917_1553_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 17 settembre 2022:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /><b>Emilia Romagna</b>: Pianura bolognese di Reno e suoi affluenti<br /><b>Marche</b>: Marc-2, Marc-1, Marc-4, Marc-3<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-A2, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Emilia Romagna</b>: Costa ferrarese, Pianura ferrarese di Po e Po di volano, Montagna emiliana centrale, Pianura piacentino-parmense, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Collina emiliana centrale, Pianura modenese di Secchia e Panaro, Pianura reggiana di Enza e Crostolo, Alta collina piacentino-parmense, Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Montagna bolognese, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Pianura reggiana di Po, Montagna romagnola<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Costa, Arno-Casentino, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Nera - Corno, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Tanagro, Alta Irpinia e Sannio, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale, Collina bolognese, Montagna bolognese, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola<br /><b>Marche</b>: Marc-2, Marc-1, Marc-4, Marc-3<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Costa, Arno-Casentino, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Umbria</b>: Chiascio - Topino, Alto Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220917_1553.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220917_1553.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220917_1553_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220917_1553_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220917_1553_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 18 settembre 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tanagro, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220917_1553.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220917_1553.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220917_1553_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220917_1553_all.zip"
+      }
+    ]
+  }
+}
