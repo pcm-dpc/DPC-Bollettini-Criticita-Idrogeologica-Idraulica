@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2022-09-23T13:59:08.522Z",
+  "name": "Bollettino del 23 settembre 2022 ore 15:52",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220923_1552_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220923_1552_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Venerdì 23 settembre 2022:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220923_1552.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220923_1552.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220923_1552_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220923_1552_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20220923_1552_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Sabato 24 settembre 2022:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Montagna bolognese<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa ferrarese, Pianura ferrarese di Po e Po di volano, Montagna emiliana centrale, Pianura piacentino-parmense, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Collina emiliana centrale, Pianura modenese di Secchia e Panaro, Pianura reggiana di Enza e Crostolo, Alta collina piacentino-parmense, Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Montagna bolognese, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Pianura reggiana di Po, Montagna romagnola<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante<br /><b>Marche</b>: Marc-2, Marc-1, Marc-4, Marc-3<br /><b>Piemonte</b>: Valle Tanaro, Belbo e Bormida, Scrivia<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Costa, Arno-Casentino, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Nera - Corno, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Basso Piave, Sile e Bacino scolante in laguna, Livenza, Lemene e Tagliamento, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Collina emiliana centrale, Alta collina piacentino-parmense, Collina bolognese, Montagna bolognese, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola<br /><b>Marche</b>: Marc-2, Marc-1, Marc-4, Marc-3<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Costa, Arno-Casentino, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20220923_1552.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20220923_1552.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20220923_1552_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20220923_1552_all.zip"
+      }
+    ]
+  }
+}
