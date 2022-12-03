@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2022-12-03T14:33:07.955Z",
+  "name": "Bollettino del 03 dicembre 2022 ore 15:27",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20221203_1527_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20221203_1527_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 3 dicembre 2022:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Puglia</b>: Salento<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Puglia</b>: Salento<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Lazio</b>: Bacini Costieri Sud, Bacini Costieri Nord, Bacini di Roma<br /><b>Puglia</b>: Puglia Centrale Adriatica, Bacini del Lato e del Lenne<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Isole, Etruria-Costa Sud, Ombrone Gr-Costa<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacino Medio Tevere, Bacini Costieri Nord, Bacini di Roma<br /><b>Puglia</b>: Puglia Centrale Adriatica, Bacini del Lato e del Lenne<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Arno-Costa, Isole, Lunigiana, Etruria-Costa Sud, Etruria-Costa Nord, Etruria, Fiora e Albegna, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Medio Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20221203_1527.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20221203_1527.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20221203_1527_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20221203_1527_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20221203_1527_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 4 dicembre 2022:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Puglia</b>: Salento<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Puglia</b>: Salento<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Lazio</b>: Bacini Costieri Sud, Bacini Costieri Nord, Bacini di Roma<br /><b>Puglia</b>: Puglia Centrale Adriatica, Bacini del Lato e del Lenne<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacini Costieri Nord, Bacini di Roma<br /><b>Puglia</b>: Puglia Centrale Adriatica, Bacini del Lato e del Lenne<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Nord-Orientale, versante ionico<br /><b>Umbria</b>: Nera - Corno, Medio Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20221203_1527.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20221203_1527.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20221203_1527_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20221203_1527_all.zip"
+      }
+    ]
+  }
+}
