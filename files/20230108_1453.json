@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-01-08T14:02:53.993Z",
+  "name": "Bollettino del 08 gennaio 2023 ore 14:53",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230108_1453_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230108_1453_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 8 gennaio 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Collina emiliana centrale, Alta collina piacentino-parmense<br /><b>Sardegna</b>: Logudoro, Bacini Montevecchio - Pischilappiu, Bacino del Tirso<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Collina emiliana centrale, Alta collina piacentino-parmense, Collina bolognese, Montagna bolognese<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Arno-Costa, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Etruria, Fiora e Albegna, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Sardegna</b>: Logudoro, Campidano, Bacini Montevecchio - Pischilappiu, Bacino del Tirso<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Costa, Arno-Casentino, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230108_1453.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230108_1453.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230108_1453_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230108_1453_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230108_1453_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 9 gennaio 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura reggiana di Po<br /><b>Sardegna</b>: Logudoro, Bacini Montevecchio - Pischilappiu, Bacino del Tirso<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacino Medio Tevere, Appennino di Rieti, Bacini Costieri Nord, Bacini di Roma<br /><b>Marche</b>: Marc-1, Marc-5, Marc-3<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Basso Ofanto, Sub-Appennino Dauno, Puglia Centrale Bradanica<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Arno-Costa, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Etruria, Fiora e Albegna, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Nera - Corno, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tanagro, Tusciano e Alto Sele, Alta Irpinia e Sannio, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri, Bacino Medio Tevere, Appennino di Rieti, Bacini Costieri Nord, Bacini di Roma<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Basso Ofanto, Sub-Appennino Dauno, Puglia Centrale Bradanica<br /><b>Sardegna</b>: Logudoro, Campidano, Bacini Montevecchio - Pischilappiu, Iglesiente, Bacino del Tirso<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Mugello-Val di Sieve, Reno, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Romagna-Toscana, Arno-Costa, Arno-Casentino, Isole, Lunigiana, Etruria-Costa Sud, Valdelsa-Valdera, Valdarno Inf., Etruria-Costa Nord, Bisenzio e Ombrone Pt, Arno-Firenze, Arno-Valdarno Sup., Valdichiana, Etruria, Fiora e Albegna, Valtiberina, Serchio-Costa, Ombrone Gr-Costa, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Chiascio - Topino, Medio Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230108_1453.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230108_1453.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230108_1453_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230108_1453_all.zip"
+      }
+    ]
+  }
+}
