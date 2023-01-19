@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-01-19T15:06:40.348Z",
+  "name": "Bollettino del 19 gennaio 2023 ore 15:40",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230119_1540_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230119_1540_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 19 gennaio 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Piana Sele e Alto Cilento, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Puglia</b>: Basso Ofanto<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tanagro, Tusciano e Alto Sele, Alta Irpinia e Sannio, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230119_1540.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230119_1540.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230119_1540_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230119_1540_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230119_1540_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 20 gennaio 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Piana campana, Napoli, Isole e Area vesuviana<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle<br /><b>Sardegna</b>: Logudoro, Campidano, Bacini Montevecchio - Pischilappiu, Iglesiente, Bacino del Tirso<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Sud-Occidentale e isola di Pantelleria<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Tanagro, Alta Irpinia e Sannio, Alto Volturno e Matese<br /><b>Lazio</b>: Aniene, Bacini Costieri Sud, Bacino del Liri<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Basso Fortore, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Gargano e Tremiti, Sub-Appennino Dauno, Salento<br /><b>Sardegna</b>: Logudoro, Campidano, Bacini Montevecchio - Pischilappiu, Bacini Flumendosa - Flumineddu, Iglesiente, Gallura, Bacino del Tirso<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Sud-Occidentale e isola di Pantelleria<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230119_1540.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230119_1540.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230119_1540_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230119_1540_all.zip"
+      }
+    ]
+  }
+}
