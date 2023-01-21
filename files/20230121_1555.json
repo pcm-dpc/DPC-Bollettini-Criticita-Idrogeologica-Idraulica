@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-01-21T15:08:24.522Z",
+  "name": "Bollettino del 21 gennaio 2023 ore 15:55",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230121_1555_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230121_1555_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 21 gennaio 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Basso Fortore, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle<br /><b>Sardegna</b>: Campidano, Bacini Montevecchio - Pischilappiu, Iglesiente<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino del Pescara, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-D<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Umbria</b>: Chiascio - Topino, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tanagro, Tusciano e Alto Sele, Alta Irpinia e Sannio, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Umbria</b>: Chiascio - Topino, Alto Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230121_1555.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230121_1555.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230121_1555_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230121_1555_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230121_1555_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 22 gennaio 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Emilia Romagna</b>: Costa romagnola, Bassa collina e pianura romagnola<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-D<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Umbria</b>: Trasimeno - Nestore, Chiascio - Topino, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Emilia Romagna</b>: Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Salento<br /><b>Umbria</b>: Chiascio - Topino, Alto Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230121_1555.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230121_1555.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230121_1555_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230121_1555_all.zip"
+      }
+    ]
+  }
+}
