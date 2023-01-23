@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-01-23T14:40:17.962Z",
+  "name": "Bollettino del 23 gennaio 2023 ore 15:31",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230123_1531_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230123_1531_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Lunedì 23 gennaio 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Costa romagnola, Bassa collina e pianura romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Emilia Romagna</b>: Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Alta collina romagnola<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Campania</b>: Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Emilia Romagna</b>: Collina emiliana centrale, Collina bolognese<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230123_1531.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230123_1531.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230123_1531_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230123_1531_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230123_1531_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Martedì 24 gennaio 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa romagnola, Bassa collina e pianura romagnola<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Campania</b>: Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Emilia Romagna</b>: Collina bolognese, Montagna bolognese, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>Sicilia</b>: Nord-Occidentale e isole Egadi e Ustica, Centro-Settentrionale, versante tirrenico, Centro-Meridionale e isole Pelagie, Sud-Occidentale e isola di Pantelleria<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230123_1531.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230123_1531.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230123_1531_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230123_1531_all.zip"
+      }
+    ]
+  }
+}
