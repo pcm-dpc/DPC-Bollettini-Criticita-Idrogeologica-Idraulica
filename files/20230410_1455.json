@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-04-10T13:40:23.996Z",
+  "name": "Bollettino del 10 aprile 2023 ore 14:55",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230410_1455_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230410_1455_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Lunedì 10 aprile 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Molise</b>: Litoranea<br /><b>Puglia</b>: Basso Fortore, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Gargano e Tremiti, Basso Ofanto, Sub-Appennino Dauno, Puglia Centrale Adriatica, Bacini del Lato e del Lenne, Puglia Centrale Bradanica, Salento<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Meridionale, Versante Tirrenico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Molise</b>: Litoranea<br /><b>Puglia</b>: Basso Fortore, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Gargano e Tremiti, Basso Ofanto, Sub-Appennino Dauno, Puglia Centrale Adriatica, Bacini del Lato e del Lenne, Puglia Centrale Bradanica, Salento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230410_1455.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230410_1455.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230410_1455_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230410_1455_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230410_1455_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Martedì 11 aprile 2023:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230410_1455.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230410_1455.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230410_1455_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230410_1455_all.zip"
+      }
+    ]
+  }
+}
