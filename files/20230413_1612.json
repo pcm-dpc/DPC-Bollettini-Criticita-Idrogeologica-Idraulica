@@ -1,0 +1,43 @@
+{
+  "type": "update",
+  "date": "2023-04-13T14:35:56.266Z",
+  "name": "Bollettino del 13 aprile 2023, aggiornamento delle ore 16:12",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230413_1612_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230413_1612_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 13 aprile 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino dell'Aterno<br /><b>Emilia Romagna</b>: Costa ferrarese, Pianura ferrarese di Po e Po di volano, Montagna emiliana centrale, Pianura piacentino-parmense, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Collina emiliana centrale, Pianura modenese di Secchia e Panaro, Pianura reggiana di Enza e Crostolo, Alta collina piacentino-parmense, Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Montagna bolognese, Pianura reggiana di Po<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>Puglia</b>: Salento<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Nera - Corno, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino dell'Aterno<br /><b>Lazio</b>: Aniene, Bacino del Liri, Bacino Medio Tevere, Appennino di Rieti<br /><b>Lombardia</b>: Bassa pianura centro-orientale, Bassa pianura orientale, Laghi e Prealpi orientali, Alta pianura orientale<br /><b>Puglia</b>: Salento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230413_1612.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230413_1612.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230413_1612_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230413_1612_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230413_1612_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 14 aprile 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Puglia</b>: Salento<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Nera - Corno, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale<br /><b>Lazio</b>: Appennino di Rieti<br /><b>Lombardia</b>: Bassa pianura centro-orientale, Bassa pianura orientale, Laghi e Prealpi orientali, Alta pianura orientale<br /><b>Puglia</b>: Salento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230413_1612.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230413_1612.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230413_1612_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230413_1612_all.zip"
+      }
+    ]
+  }
+}
