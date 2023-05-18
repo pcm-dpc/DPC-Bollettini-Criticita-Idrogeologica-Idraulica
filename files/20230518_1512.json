@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-05-18T13:53:40.255Z",
+  "name": "Bollettino del 18 maggio 2023 ore 15:12",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230518_1512_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230518_1512_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 18 maggio 2023:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ROSSA:</b><br /><b>Emilia Romagna</b>: Pianura modenese di Secchia e Panaro, Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola<br /><b>ELEVATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ROSSA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale, Pianura bolognese di Reno e suoi affluenti, Collina bolognese, Montagna bolognese, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Costa ferrarese, Pianura ferrarese di Po e Po di volano, Montagna bolognese<br /><b>Lombardia</b>: Bassa pianura orientale<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-E2<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale<br /><b>Molise</b>: Litoranea<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino dell'Aterno<br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Bacini del Lato e del Lenne, Puglia Centrale Bradanica<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Medio Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Campania</b>: Piana Sele e Alto Cilento, Basso Cilento, Tanagro, Tusciano e Alto Sele, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana<br /><b>Lazio</b>: Bacino Medio Tevere, Appennino di Rieti, Bacini Costieri Nord<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Bacini del Lato e del Lenne, Puglia Centrale Bradanica<br /><b>Toscana</b>: Romagna-Toscana<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230518_1512.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230518_1512.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230518_1512_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230518_1512_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230518_1512_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 19 maggio 2023:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ROSSA:</b><br /><b>Emilia Romagna</b>: Pianura bolognese di Reno e suoi affluenti, Costa romagnola, Bassa collina e pianura romagnola<br /><b>ELEVATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ROSSA:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Alta collina romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Pianura ferrarese di Po e Po di volano, Pianura modenese di Secchia e Panaro, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Lombardia</b>: Bassa pianura orientale<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale, Montagna bolognese, Montagna romagnola<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa ferrarese, Montagna emiliana centrale, Collina emiliana centrale, Montagna bolognese<br /><b>Molise</b>: Litoranea<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino del Pescara, Bacino Basso del Sangro, Bacini Tordino Vomano<br /><b>Basilicata</b>: Basi-B, Basi-E2, Basi-A2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Marche</b>: Marc-2, Marc-1, Marc-6, Marc-5, Marc-4, Marc-3<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Piemonte</b>: Valli Susa, Chisone, Pellice e Po, Valli Varaita, Maira e Stura<br /><b>Toscana</b>: Romagna-Toscana<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230518_1512.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230518_1512.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230518_1512_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230518_1512_all.zip"
+      }
+    ]
+  }
+}
