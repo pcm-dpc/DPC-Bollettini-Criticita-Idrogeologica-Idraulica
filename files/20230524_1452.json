@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-05-24T13:29:43.302Z",
+  "name": "Bollettino del 24 maggio 2023 ore 14:52",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230524_1452_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230524_1452_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Mercoledì 24 maggio 2023:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ROSSA:</b><br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Pianura bolognese, Costa romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Alta collina romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Alta collina romagnola<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna romagnola, Montagna bolognese<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Pianura ferrarese, Costa ferrarese, Pianura bolognese, Collina emiliana centrale, Montagna emiliana centrale, Pianura modenese, Pianura reggiana, Montagna romagnola, Collina bolognese, Montagna bolognese, Montagna piacentino-parmense, Bassa collina piacentino-parmense, Costa romagnola, Alta collina piacentino-parmense, Pianura reggiana di Po, Pianura piacentino-parmense, Alta collina romagnola<br /><b>Lazio</b>: Appennino di Rieti, Aniene, Bacino del Liri, Bacino Medio Tevere<br /><b>Lombardia</b>: Alta Valtellina, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica, Laghi e Prealpi orientali, Nodo Idraulico di Milano, Pianura centrale, Valchiavenna, Alta pianura orientale, Bassa pianura occidentale, Bassa pianura centro-occidentale, Bassa pianura centro-orientale, Appennino pavese, Bassa pianura orientale, Media-bassa Valtellina<br /><b>Marche</b>: Marc-5, Marc-1, Marc-2, Marc-6, Marc-4, Marc-3<br /><b>Umbria</b>: Nera - Corno, Chiascio - Topino, Chiani - Paglia, Medio Tevere, Trasimeno - Nestore, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Basso del Sangro, Bacino dell'Aterno, Bacino Alto del Sangro, Bacino del Pescara, Bacini Tordino Vomano, Marsica<br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Collina emiliana centrale, Montagna emiliana centrale, Montagna romagnola, Montagna bolognese, Costa romagnola<br /><b>Lombardia</b>: Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Nodo Idraulico di Milano<br /><b>Piemonte</b>: Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po, Valli Varaita, Maira e Stura, Valle Tanaro, Pianura settentrionale, Pianura Torinese e Colline, Pianura Cuneese<br /><b>Toscana</b>: Romagna-Toscana<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230524_1452.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230524_1452.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230524_1452_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230524_1452_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230524_1452_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Giovedì 25 maggio 2023:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ROSSA:</b><br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Pianura bolognese, Costa romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Alta collina romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Alta collina romagnola<br /><b>Piemonte</b>: Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna romagnola, Montagna bolognese<br /><b>Piemonte</b>: Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po, Pianura settentrionale, Pianura Torinese e Colline<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Pianura ferrarese, Costa ferrarese, Pianura bolognese, Collina emiliana centrale, Montagna emiliana centrale, Pianura modenese, Pianura reggiana, Montagna romagnola, Collina bolognese, Montagna bolognese, Montagna piacentino-parmense, Bassa collina piacentino-parmense, Costa romagnola, Alta collina piacentino-parmense, Pianura reggiana di Po, Pianura piacentino-parmense, Alta collina romagnola<br /><b>Lombardia</b>: Alta Valtellina, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica, Laghi e Prealpi orientali, Nodo Idraulico di Milano, Pianura centrale, Valchiavenna, Alta pianura orientale, Bassa pianura occidentale, Bassa pianura centro-occidentale, Bassa pianura centro-orientale, Appennino pavese, Bassa pianura orientale, Media-bassa Valtellina<br /><b>Sardegna</b>: Gallura, Bacino del Tirso, Logudoro<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Valdichiana, Arno-Costa, Valdelsa-Valdera, Valdarno Inf., Versilia, Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Reno, Romagna-Toscana, Serchio-Lucca, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Mugello-Val di Sieve, Valtiberina, Serchio-Costa, Ombrone Gr-Costa<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Bacino Alto del Sangro, Marsica<br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Collina emiliana centrale, Montagna emiliana centrale, Montagna romagnola, Montagna bolognese, Costa romagnola<br /><b>Lombardia</b>: Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Nodo Idraulico di Milano<br /><b>Piemonte</b>: Val Sesia, Cervo e Chiusella, Valli Varaita, Maira e Stura, Valle Tanaro, Pianura settentrionale, Pianura Torinese e Colline, Pianura Cuneese<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Valdichiana, Arno-Costa, Valdelsa-Valdera, Valdarno Inf., Versilia, Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Reno, Romagna-Toscana, Serchio-Lucca, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Mugello-Val di Sieve, Valtiberina, Serchio-Costa, Ombrone Gr-Costa<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230524_1452.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230524_1452.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230524_1452_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230524_1452_all.zip"
+      }
+    ]
+  }
+}
