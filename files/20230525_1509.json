@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-05-25T13:31:44.075Z",
+  "name": "Bollettino del 25 maggio 2023 ore 15:09",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230525_1509_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230525_1509_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 25 maggio 2023:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ROSSA:</b><br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Pianura bolognese, Costa romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Alta collina romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Alta collina romagnola<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna romagnola, Montagna bolognese<br /><b>Piemonte</b>: Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po, Pianura settentrionale, Pianura Torinese e Colline<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Pianura ferrarese, Costa ferrarese, Pianura bolognese, Collina emiliana centrale, Montagna emiliana centrale, Pianura modenese, Pianura reggiana, Montagna romagnola, Collina bolognese, Montagna bolognese, Montagna piacentino-parmense, Bassa collina piacentino-parmense, Costa romagnola, Alta collina piacentino-parmense, Pianura reggiana di Po, Pianura piacentino-parmense, Alta collina romagnola<br /><b>Lazio</b>: Appennino di Rieti, Bacini Costieri Nord, Aniene, Bacino del Liri, Bacino Medio Tevere<br /><b>Lombardia</b>: Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Valcamonica, Laghi e Prealpi orientali, Bassa pianura occidentale, Bassa pianura centro-occidentale, Appennino pavese<br /><b>Molise</b>: Alto Volturno - Medio Sangro, Frentani - Sannio - Matese<br /><b>Puglia</b>: Puglia Centrale Bradanica, Basso Ofanto, Sub-Appennino Dauno, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Basso Fortore<br /><b>Sardegna</b>: Gallura, Bacino del Tirso, Logudoro<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Valdichiana, Arno-Costa, Valdelsa-Valdera, Valdarno Inf., Versilia, Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Reno, Romagna-Toscana, Serchio-Lucca, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Mugello-Val di Sieve, Valtiberina, Serchio-Costa, Ombrone Gr-Costa<br /><b>Umbria</b>: Nera - Corno, Chiascio - Topino, Chiani - Paglia, Medio Tevere, Trasimeno - Nestore, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Bacino Alto del Sangro, Marsica<br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Collina emiliana centrale, Montagna emiliana centrale, Montagna romagnola, Montagna bolognese, Costa romagnola<br /><b>Piemonte</b>: Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po, Valli Varaita, Maira e Stura, Valle Tanaro, Pianura Torinese e Colline, Pianura Cuneese<br /><b>Toscana</b>: Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Valdichiana, Arno-Costa, Valdelsa-Valdera, Valdarno Inf., Versilia, Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Reno, Romagna-Toscana, Serchio-Lucca, Serchio-Garfagnana-Lima, Ombrone Gr-Medio, Ombrone Gr-Alto, Mugello-Val di Sieve, Valtiberina, Serchio-Costa, Ombrone Gr-Costa<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230525_1509.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230525_1509.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230525_1509_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230525_1509_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230525_1509_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 26 maggio 2023:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ROSSA:</b><br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Pianura bolognese, Costa romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Alta collina romagnola<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Alta collina romagnola<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna romagnola, Montagna bolognese<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-B, Basi-E2, Basi-E1, Basi-A1, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale<br /><b>Emilia Romagna</b>: Bassa collina e pianura romagnola, Collina emiliana centrale, Montagna emiliana centrale, Montagna romagnola, Montagna bolognese<br /><b>Toscana</b>: Romagna-Toscana<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230525_1509.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230525_1509.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230525_1509_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230525_1509_all.zip"
+      }
+    ]
+  }
+}
