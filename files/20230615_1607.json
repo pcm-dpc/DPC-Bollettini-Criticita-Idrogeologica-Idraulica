@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-06-15T14:32:58.999Z",
+  "name": "Bollettino del 15 giugno 2023 ore 16:07",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230615_1607_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230615_1607_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 15 giugno 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Puglia Centrale Adriatica, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Basilicata</b>: Basi-A1, Basi-B<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Puglia Centrale Adriatica, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-E2, Basi-D, Basi-E1, Basi-C, Basi-B<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino del Pescara, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-E2, Basi-D, Basi-E1, Basi-C, Basi-B<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>Lazio</b>: Bacini di Roma, Appennino di Rieti, Bacino Medio Tevere, Bacino del Liri, Bacini Costieri Sud, Aniene<br /><b>Lombardia</b>: Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Nodo Idraulico di Milano<br /><b>Marche</b>: Marc-5, Marc-6, Marc-1, Marc-2, Marc-3, Marc-4<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Sardegna</b>: Gallura, Bacini Flumendosa - Flumineddu, Campidano<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Bacino del Fiume Simeto, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino del Pescara, Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-D, Basi-E1, Basi-C<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>Campania</b>: Basso Cilento, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana, Alta Irpinia e Sannio, Tanagro, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele, Piana Sele e Alto Cilento<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Alta collina piacentino-parmense, Montagna bolognese, Montagna romagnola<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Sud-Orientale, versante Stretto di Sicilia, Bacino del Fiume Simeto, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230615_1607.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230615_1607.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230615_1607_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230615_1607_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230615_1607_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 16 giugno 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Puglia</b>: Puglia Centrale Adriatica<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Puglia</b>: Puglia Centrale Adriatica<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-E2, Basi-E1<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>Lombardia</b>: Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Nodo Idraulico di Milano<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara, Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-A1, Basi-E2, Basi-D, Basi-E1, Basi-C, Basi-B<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>Campania</b>: Basso Cilento, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana, Alta Irpinia e Sannio, Tanagro, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele, Piana Sele e Alto Cilento<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230615_1607.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230615_1607.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230615_1607_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230615_1607_all.zip"
+      }
+    ]
+  }
+}
