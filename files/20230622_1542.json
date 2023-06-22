@@ -1,0 +1,43 @@
+{
+  "type": "update",
+  "date": "2023-06-22T14:24:53.825Z",
+  "name": "Bollettino del 22 giugno 2023, aggiornamento delle ore 15:42",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230622_1542_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230622_1542_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 22 giugno 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Valchiavenna, Media-bassa Valtellina, Laghi e Prealpi Varesine, Valcamonica, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche, Alta Valtellina, Nodo Idraulico di Milano<br /><b>Piemonte</b>: Pianura Torinese e Colline, Toce, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po, Pianura settentrionale<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento, Provincia Autonoma di Bolzano<br /><b>Valle d'Aosta</b>: Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Alto Piave, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Valchiavenna, Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento, Provincia Autonoma di Bolzano<br /><b>Valle d'Aosta</b>: Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230622_1542.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230622_1542.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230622_1542_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230622_1542_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230622_1542_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 23 giugno 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Pianura modenese, Costa ferrarese, Costa romagnola, Pianura reggiana di Po, Collina emiliana centrale, Pianura bolognese, Bassa collina e pianura romagnola, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura ferrarese<br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino montano del Tagliamento e del Torre, Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino del Livenza e del Lemene<br /><b>Lombardia</b>: Alta pianura orientale, Valchiavenna, Media-bassa Valtellina, Laghi e Prealpi Varesine, Valcamonica, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche, Bassa pianura orientale, Bassa pianura centro-orientale, Alta Valtellina, Nodo Idraulico di Milano<br /><b>Piemonte</b>: Pianura Torinese e Colline, Toce, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po, Pianura settentrionale<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Alto Piave, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Valchiavenna, Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230622_1542.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230622_1542.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230622_1542_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230622_1542_all.zip"
+      }
+    ]
+  }
+}
