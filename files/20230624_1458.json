@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-06-24T13:29:42.081Z",
+  "name": "Bollettino del 24 giugno 2023 ore 14:58",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230624_1458_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230624_1458_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 24 giugno 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Lazio</b>: Bacini di Roma, Appennino di Rieti, Bacino del Liri, Bacini Costieri Sud, Aniene<br /><b>Marche</b>: Marc-5, Marc-6, Marc-1, Marc-2, Marc-3, Marc-4<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Basso Ofanto, Bacini del Lato e del Lenne, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Umbria</b>: Nera - Corno, Chiascio - Topino<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230624_1458.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230624_1458.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230624_1458_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230624_1458_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230624_1458_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 25 giugno 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-D<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230624_1458.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230624_1458.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230624_1458_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230624_1458_all.zip"
+      }
+    ]
+  }
+}
