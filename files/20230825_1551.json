@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-08-25T14:00:40.040Z",
+  "name": "Bollettino del 25 agosto 2023 ore 15:51",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230825_1551_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230825_1551_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Venerdì 25 agosto 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Valchiavenna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>Lombardia</b>: Media-bassa Valtellina, Laghi e Prealpi Varesine, Lario e Prealpi occidentali<br /><b>Piemonte</b>: Toce, Val Sesia, Cervo e Chiusella<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>Lombardia</b>: Valchiavenna<br /><b>Piemonte</b>: Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230825_1551.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230825_1551.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230825_1551_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230825_1551_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20230825_1551_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Sabato 26 agosto 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Valchiavenna, Media-bassa Valtellina, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche, Alta Valtellina, Nodo Idraulico di Milano<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Pianura centrale, Valcamonica, Laghi e Prealpi orientali, Bassa pianura occidentale<br /><b>Piemonte</b>: Pianura Torinese e Colline, Toce, Belbo e Bormida, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po, Scrivia, Pianura settentrionale<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Valchiavenna, Media-bassa Valtellina, Laghi e Prealpi Varesine, Lario e Prealpi occidentali, Orobie bergamasche<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Valle d'Aosta</b>: Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne, Valle di Cogne, Valsavarenche e Valle di Rhêmes<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20230825_1551.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20230825_1551.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20230825_1551_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20230825_1551_all.zip"
+      }
+    ]
+  }
+}
