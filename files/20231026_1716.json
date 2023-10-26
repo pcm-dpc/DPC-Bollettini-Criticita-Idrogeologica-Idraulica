@@ -1,0 +1,43 @@
+{
+  "type": "update",
+  "date": "2023-10-26T16:09:04.011Z",
+  "name": "Bollettino del 26 ottobre 2023, aggiornamento delle ore 17:16",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20231026_1716_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20231026_1716_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 26 ottobre 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante<br /><b>Toscana</b>: Serchio-Garfagnana-Lima, Serchio-Costa, Lunigiana, Serchio-Lucca, Versilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese, Collina bolognese<br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino dell'Isonzo e Pianura di Udine e Gorizia<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro<br /><b>Lombardia</b>: Appennino pavese<br /><b>Toscana</b>: Serchio-Garfagnana-Lima, Serchio-Costa, Lunigiana, Serchio-Lucca, Versilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro<br /><b>Toscana</b>: Valdarno Inf., Arno-Costa, Bisenzio e Ombrone Pt, Reno<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Umbria</b>: Chiani - Paglia, Chiascio - Topino<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Piave pedemontano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20231026_1716.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20231026_1716.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20231026_1716_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20231026_1716_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20231026_1716_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 27 ottobre 2023:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino dell'Isonzo e Pianura di Udine e Gorizia<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante<br /><b>Toscana</b>: Serchio-Garfagnana-Lima, Serchio-Costa, Lunigiana, Serchio-Lucca, Versilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Pianura modenese, Montagna piacentino-parmense, Alta collina piacentino-parmense, Pianura reggiana di Po, Collina emiliana centrale, Montagna bolognese, Collina bolognese<br /><b>Toscana</b>: Serchio-Garfagnana-Lima, Serchio-Costa, Lunigiana, Serchio-Lucca<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>Lazio</b>: Bacini di Roma, Appennino di Rieti, Bacino Medio Tevere, Bacini Costieri Nord, Bacino del Liri, Bacini Costieri Sud, Aniene<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro<br /><b>Lombardia</b>: Alta pianura orientale, Media-bassa Valtellina, Valcamonica, Laghi e Prealpi orientali, Appennino pavese, Orobie bergamasche, Bassa pianura orientale, Bassa pianura centro-orientale, Alta Valtellina<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Serchio-Garfagnana-Lima, Serchio-Costa, Lunigiana, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Medio Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale<br /><b>Campania</b>: Basso Cilento, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele, Piana Sele e Alto Cilento<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino montano del Tagliamento e del Torre, Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino del Livenza e del Lemene<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro<br /><b>Lombardia</b>: Valchiavenna, Media-bassa Valtellina, Valcamonica, Laghi e Prealpi orientali, Orobie bergamasche, Alta Valtellina<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Valdichiana, Valdarno Inf., Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Mugello-Val di Sieve, Reno, Valtiberina<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento, Provincia Autonoma di Bolzano<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Chiascio - Topino<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Piave pedemontano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20231026_1716.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20231026_1716.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20231026_1716_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20231026_1716_all.zip"
+      }
+    ]
+  }
+}
