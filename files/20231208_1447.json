@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2023-12-08T14:08:34.631Z",
+  "name": "Bollettino del 08 dicembre 2023 ore 14:47",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20231208_1447_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20231208_1447_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Venerdì 8 dicembre 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Sud-Occidentale e isola di Pantelleria, Centro-Meridionale e isole Pelagie, Sud-Orientale, versante Stretto di Sicilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Sardegna</b>: Bacini Montevecchio - Pischilappiu, Campidano, Iglesiente, Logudoro, Bacino del Tirso<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Sud-Occidentale e isola di Pantelleria, Centro-Meridionale e isole Pelagie, Sud-Orientale, versante Stretto di Sicilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20231208_1447.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20231208_1447.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20231208_1447_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20231208_1447_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20231208_1447_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Sabato 9 dicembre 2023:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Meridionale, Versante Jonico Meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Meridionale, Versante Jonico Meridionale<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Sud-Orientale, versante Stretto di Sicilia, Bacino del Fiume Simeto, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Meridionale, Versante Jonico Meridionale<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Sud-Orientale, versante Stretto di Sicilia, Bacino del Fiume Simeto, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20231208_1447.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20231208_1447.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20231208_1447_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20231208_1447_all.zip"
+      }
+    ]
+  }
+}
