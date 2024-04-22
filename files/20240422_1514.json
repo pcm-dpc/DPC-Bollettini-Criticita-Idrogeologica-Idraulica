@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2024-04-22T13:51:27.395Z",
+  "name": "Bollettino del 22 aprile 2024 ore 15:14",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240422_1514_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240422_1514_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Lunedì 22 aprile 2024:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Pianura modenese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Pianura reggiana di Po, Collina emiliana centrale, Pianura piacentino-parmense<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa ferrarese, Costa romagnola, Pianura bolognese, Bassa collina e pianura romagnola, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura ferrarese<br /><b>Marche</b>: Marc-6, Marc-2, Marc-4<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale<br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Pianura centrale, Appennino pavese, Bassa pianura occidentale, Nodo Idraulico di Milano<br /><b>Veneto</b>: Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20240422_1514.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20240422_1514.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20240422_1514_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20240422_1514_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240422_1514_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Martedì 23 aprile 2024:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura reggiana, Pianura modenese, Bassa collina piacentino-parmense, Pianura reggiana di Po, Pianura piacentino-parmense<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara<br /><b>Emilia Romagna</b>: Costa ferrarese, Costa romagnola, Pianura bolognese, Bassa collina e pianura romagnola, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura ferrarese<br /><b>Puglia</b>: Salento<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale<br /><b>Puglia</b>: Salento<br /><b>Veneto</b>: Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20240422_1514.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20240422_1514.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20240422_1514_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20240422_1514_all.zip"
+      }
+    ]
+  }
+}
