@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2024-05-22T12:39:39.302Z",
+  "name": "Bollettino del 22 maggio 2024 ore 14:25",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240522_1425_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240522_1425_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Mercoledì 22 maggio 2024:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ROSSA:</b><br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone<br /><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Costa ferrarese<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Veneto</b>: Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bassa collina piacentino-parmense, Pianura reggiana di Po, Pianura bolognese, Pianura piacentino-parmense, Pianura ferrarese<br /><b>Lombardia</b>: Bassa pianura orientale, Bassa pianura centro-orientale<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Veneto</b>: Livenza, Lemene e Tagliamento, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Pianura modenese, Costa ferrarese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Costa romagnola, Pianura reggiana di Po, Collina emiliana centrale, Pianura bolognese, Bassa collina e pianura romagnola, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura piacentino-parmense, Pianura ferrarese<br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Alta pianura orientale, Pianura centrale, Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche, Bassa pianura orientale, Bassa pianura centro-orientale, Bassa pianura occidentale, Nodo Idraulico di Milano<br /><b>Piemonte</b>: Pianura Torinese e Colline, Pianura Cuneese, Valle Tanaro, Pianura settentrionale<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Alto Piave, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Alta pianura orientale, Pianura centrale, Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Appennino pavese, Lario e Prealpi occidentali, Orobie bergamasche, Bassa pianura orientale, Bassa pianura centro-orientale, Bassa pianura occidentale, Nodo Idraulico di Milano<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento, Provincia Autonoma di Bolzano<br /><b>Umbria</b>: Nera - Corno, Chiascio - Topino<br /><b>Veneto</b>: Livenza, Lemene e Tagliamento, Alto Piave, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20240522_1425.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20240522_1425.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20240522_1425_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20240522_1425_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240522_1425_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Giovedì 23 maggio 2024:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Costa ferrarese<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura ferrarese<br /><b>Veneto</b>: Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura reggiana, Pianura modenese, Costa ferrarese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Pianura reggiana di Po, Pianura bolognese, Pianura piacentino-parmense, Pianura ferrarese<br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Alta pianura orientale, Pianura centrale, Laghi e Prealpi Varesine, Valcamonica, Laghi e Prealpi orientali, Appennino pavese, Lario e Prealpi occidentali, Orobie bergamasche, Bassa pianura orientale, Bassa pianura centro-orientale, Bassa pianura occidentale, Nodo Idraulico di Milano<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Alta pianura orientale, Pianura centrale, Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Appennino pavese, Lario e Prealpi occidentali, Orobie bergamasche, Bassa pianura orientale, Bassa pianura centro-orientale, Bassa pianura occidentale, Nodo Idraulico di Milano<br /><b>Piemonte</b>: Pianura Torinese e Colline, Pianura Cuneese, Belbo e Bormida, Scrivia, Pianura settentrionale<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento, Provincia Autonoma di Bolzano<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20240522_1425.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20240522_1425.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20240522_1425_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20240522_1425_all.zip"
+      }
+    ]
+  }
+}
