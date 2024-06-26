@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2024-06-26T13:26:56.929Z",
+  "name": "Bollettino del 26 giugno 2024 ore 14:43",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240626_1443_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240626_1443_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Mercoledì 26 giugno 2024:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Pianura modenese, Bassa collina piacentino-parmense, Pianura reggiana di Po, Collina emiliana centrale, Pianura piacentino-parmense<br /><b>Lombardia</b>: Bassa pianura orientale<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa ferrarese, Montagna piacentino-parmense, Alta collina piacentino-parmense, Costa romagnola, Pianura bolognese, Bassa collina e pianura romagnola, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura ferrarese<br /><b>Lombardia</b>: Laghi e Prealpi orientali<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino del Pescara, Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Marche</b>: Marc-5, Marc-6, Marc-1, Marc-2, Marc-3, Marc-4<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino del Pescara, Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Emilia Romagna</b>: Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Lombardia</b>: Laghi e Prealpi orientali<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20240626_1443.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20240626_1443.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20240626_1443_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20240626_1443_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240626_1443_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Giovedì 27 giugno 2024:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Bassa pianura orientale<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura modenese, Costa ferrarese, Pianura ferrarese<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20240626_1443.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20240626_1443.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20240626_1443_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20240626_1443_all.zip"
+      }
+    ]
+  }
+}
