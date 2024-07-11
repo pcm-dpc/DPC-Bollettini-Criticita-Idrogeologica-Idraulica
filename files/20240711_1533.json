@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2024-07-11T13:51:14.701Z",
+  "name": "Bollettino del 11 luglio 2024 ore 15:33",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240711_1533_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240711_1533_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 11 luglio 2024:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20240711_1533.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20240711_1533.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20240711_1533_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20240711_1533_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240711_1533_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 12 luglio 2024:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Valchiavenna, Lario e Prealpi occidentali<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Valchiavenna, Lario e Prealpi occidentali<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Media-bassa Valtellina, Laghi e Prealpi Varesine, Valcamonica, Laghi e Prealpi orientali, Appennino pavese, Orobie bergamasche, Bassa pianura occidentale, Alta Valtellina, Nodo Idraulico di Milano<br /><b>Piemonte</b>: Pianura Torinese e Colline, Pianura Cuneese, Toce, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po, Pianura settentrionale<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Veneto</b>: Alto Piave, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Piave pedemontano<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Media-bassa Valtellina, Laghi e Prealpi Varesine, Valcamonica, Laghi e Prealpi orientali, Orobie bergamasche, Alta Valtellina<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento, Provincia Autonoma di Bolzano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20240711_1533.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20240711_1533.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20240711_1533_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20240711_1533_all.zip"
+      }
+    ]
+  }
+}
