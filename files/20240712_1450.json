@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2024-07-12T13:53:53.797Z",
+  "name": "Bollettino del 12 luglio 2024 ore 14:50",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240712_1450_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240712_1450_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Venerdì 12 luglio 2024:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Valchiavenna, Laghi e Prealpi Varesine, Lario e Prealpi occidentali<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Valchiavenna, Media-bassa Valtellina, Laghi e Prealpi Varesine, Lario e Prealpi occidentali<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Veneto</b>: Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino montano del Tagliamento e del Torre, Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino del Livenza e del Lemene<br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Alta pianura orientale, Pianura centrale, Media-bassa Valtellina, Valcamonica, Laghi e Prealpi orientali, Appennino pavese, Orobie bergamasche, Bassa pianura occidentale, Alta Valtellina, Nodo Idraulico di Milano<br /><b>Piemonte</b>: Pianura Torinese e Colline, Pianura Cuneese, Toce, Belbo e Bormida, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po, Pianura settentrionale<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Alto Piave, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Valcamonica, Laghi e Prealpi orientali, Orobie bergamasche, Alta Valtellina, Nodo Idraulico di Milano<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20240712_1450.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20240712_1450.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20240712_1450_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20240712_1450_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20240712_1450_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Sabato 13 luglio 2024:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Valchiavenna, Laghi e Prealpi Varesine, Lario e Prealpi occidentali<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Lombardia</b>: Valchiavenna, Media-bassa Valtellina, Laghi e Prealpi Varesine, Lario e Prealpi occidentali<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Veneto</b>: Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino montano del Tagliamento e del Torre, Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino del Livenza e del Lemene<br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Alta pianura orientale, Pianura centrale, Media-bassa Valtellina, Valcamonica, Laghi e Prealpi orientali, Appennino pavese, Orobie bergamasche, Bassa pianura occidentale, Alta Valtellina, Nodo Idraulico di Milano<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Alto Piave, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Valcamonica, Laghi e Prealpi orientali, Orobie bergamasche, Alta Valtellina, Nodo Idraulico di Milano<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Trento, Provincia Autonoma di Bolzano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20240712_1450.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20240712_1450.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20240712_1450_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20240712_1450_all.zip"
+      }
+    ]
+  }
+}
