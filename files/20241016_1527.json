@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2024-10-16T13:44:32.285Z",
+  "name": "Bollettino del 16 ottobre 2024 ore 15:27",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241016_1527_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241016_1527_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Mercoledì 16 ottobre 2024:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Pianura piacentino-parmense<br /><b>Piemonte</b>: Belbo e Bormida<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>Toscana</b>: Serchio-Garfagnana-Lima, Serchio-Costa, Arno-Costa, Lunigiana, Serchio-Lucca, Versilia, Isole<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale<br /><b>Piemonte</b>: Toce, Belbo e Bormida, Valle Tanaro, Val Sesia, Cervo e Chiusella, Scrivia, Pianura settentrionale<br /><b>Toscana</b>: Serchio-Garfagnana-Lima, Serchio-Costa, Arno-Costa, Lunigiana, Serchio-Lucca, Versilia, Isole<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20241016_1527.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20241016_1527.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20241016_1527_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20241016_1527_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241016_1527_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Giovedì 17 ottobre 2024:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Pianura piacentino-parmense<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Montagna bolognese, Pianura piacentino-parmense<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura reggiana, Pianura modenese, Pianura reggiana di Po, Montagna bolognese, Collina bolognese<br /><b>Piemonte</b>: Belbo e Bormida<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Alto Brenta-Bacchiglione-Alpone<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura reggiana, Pianura modenese, Costa ferrarese, Costa romagnola, Pianura reggiana di Po, Collina emiliana centrale, Pianura bolognese, Bassa collina e pianura romagnola, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura ferrarese<br /><b>Liguria</b>: Bacini Liguri Marittimi di Ponente<br /><b>Toscana</b>: Etruria, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Costa, Serchio-Costa, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Reno, Serchio-Lucca, Versilia, Isole, Fiora e Albegna-Costa e Giglio<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Medio Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Collina bolognese, Pianura piacentino-parmense<br /><b>Liguria</b>: Bacini Liguri Marittimi di Ponente, Bacini Liguri Padani di Ponente<br /><b>Lombardia</b>: Laghi e Prealpi Varesine, Valcamonica, Laghi e Prealpi orientali, Appennino pavese, Lario e Prealpi occidentali, Orobie bergamasche, Nodo Idraulico di Milano<br /><b>Piemonte</b>: Toce, Belbo e Bormida, Valle Tanaro, Val Sesia, Cervo e Chiusella, Scrivia, Pianura settentrionale<br /><b>Toscana</b>: Etruria, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Costa, Serchio-Costa, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Reno, Serchio-Lucca, Versilia, Isole, Fiora e Albegna-Costa e Giglio<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Piave pedemontano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20241016_1527.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20241016_1527.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20241016_1527_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20241016_1527_all.zip"
+      }
+    ]
+  }
+}
