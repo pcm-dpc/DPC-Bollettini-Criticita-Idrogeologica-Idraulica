@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2024-10-25T13:07:17.552Z",
+  "name": "Bollettino del 25 ottobre 2024 ore 14:50",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241025_1450_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241025_1450_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Venerdì 25 ottobre 2024:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Pianura modenese, Costa ferrarese, Pianura reggiana di Po, Collina emiliana centrale, Pianura bolognese, Montagna bolognese, Collina bolognese, Pianura ferrarese<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese, Collina bolognese<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Ombrone Gr-Costa, Arno-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Fiora e Albegna, Isole, Fiora e Albegna-Costa e Giglio<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese, Collina bolognese<br /><b>Liguria</b>: Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdelsa-Valdera, Valdarno Inf., Ombrone Gr-Costa, Serchio-Costa, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Serchio-Lucca, Fiora e Albegna, Isole, Fiora e Albegna-Costa e Giglio<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola, Pianura piacentino-parmense<br /><b>Lazio</b>: Bacini Costieri Nord<br /><b>Toscana</b>: Etruria, Valdelsa-Valdera, Etruria-Costa Sud<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Liguria</b>: Bacini Liguri Padani di Ponente<br /><b>Toscana</b>: Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Serchio-Costa, Bisenzio e Ombrone Pt, Lunigiana, Reno, Serchio-Lucca, Versilia, Ombrone Gr-Alto<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Medio Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bassa collina piacentino-parmense, Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola, Pianura piacentino-parmense<br /><b>Lazio</b>: Bacino Medio Tevere, Bacini Costieri Nord<br /><b>Piemonte</b>: Toce, Belbo e Bormida, Val Sesia, Cervo e Chiusella, Valli Orco, Lanzo e Sangone, Valli Susa, Chisone, Pellice e Po, Scrivia, Pianura settentrionale<br /><b>Toscana</b>: Valdichiana, Serchio-Garfagnana-Lima, Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Valtiberina, Versilia, Ombrone Gr-Alto<br /><b>Umbria</b>: Chiani - Paglia, Trasimeno - Nestore, Medio Tevere, Alto Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20241025_1450.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20241025_1450.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20241025_1450_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20241025_1450_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241025_1450_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Sabato 26 ottobre 2024:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Pianura modenese, Costa ferrarese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Pianura reggiana di Po, Collina emiliana centrale, Pianura bolognese, Montagna bolognese, Collina bolognese, Pianura piacentino-parmense<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Liguria</b>: Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola, Pianura ferrarese<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Collina emiliana centrale, Pianura piacentino-parmense<br /><b>Liguria</b>: Bacini Liguri Marittimi di Ponente<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Bassa collina piacentino-parmense, Collina emiliana centrale, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura piacentino-parmense<br /><b>Lombardia</b>: Laghi e Prealpi Varesine, Appennino pavese, Lario e Prealpi occidentali, Bassa pianura occidentale, Nodo Idraulico di Milano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20241025_1450.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20241025_1450.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20241025_1450_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20241025_1450_all.zip"
+      }
+    ]
+  }
+}
