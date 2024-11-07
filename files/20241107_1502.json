@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2024-11-07T14:40:21.914Z",
+  "name": "Bollettino del 07 novembre 2024 ore 15:02",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241107_1502_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241107_1502_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 7 novembre 2024:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lazio</b>: Bacini Costieri Sud<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Centro-Meridionale e isole Pelagie, Sud-Orientale, versante Stretto di Sicilia, Bacino del Fiume Simeto, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Centro-Meridionale e isole Pelagie, Sud-Orientale, versante Stretto di Sicilia, Bacino del Fiume Simeto, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20241107_1502.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20241107_1502.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20241107_1502_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20241107_1502_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241107_1502_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 8 novembre 2024:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lazio</b>: Bacini Costieri Sud<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Centro-Meridionale e isole Pelagie, Sud-Orientale, versante Stretto di Sicilia, Bacino del Fiume Simeto, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lazio</b>: Bacini Costieri Sud<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Centro-Meridionale e isole Pelagie, Sud-Orientale, versante Stretto di Sicilia, Bacino del Fiume Simeto, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20241107_1502.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20241107_1502.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20241107_1502_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20241107_1502_all.zip"
+      }
+    ]
+  }
+}
