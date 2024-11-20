@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2024-11-20T15:20:02.508Z",
+  "name": "Bollettino del 20 novembre 2024 ore 15:48",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241120_1548_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241120_1548_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Mercoledì 20 novembre 2024:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale<br /><b>Lazio</b>: Appennino di Rieti, Bacino del Liri, Aniene<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale<br /><b>Campania</b>: Basso Cilento, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana, Alta Irpinia e Sannio, Tanagro, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele, Piana Sele e Alto Cilento<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20241120_1548.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20241120_1548.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20241120_1548_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20241120_1548_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20241120_1548_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Giovedì 21 novembre 2024:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Alta collina piacentino-parmense, Montagna bolognese, Montagna romagnola<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Campania</b>: Basso Cilento, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana, Alta Irpinia e Sannio, Tanagro, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele, Piana Sele e Alto Cilento<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Alta collina piacentino-parmense, Montagna bolognese, Montagna romagnola<br /><b>Toscana</b>: Serchio-Garfagnana-Lima, Serchio-Costa, Lunigiana, Serchio-Lucca, Versilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20241120_1548.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20241120_1548.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20241120_1548_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20241120_1548_all.zip"
+      }
+    ]
+  }
+}
