@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-03-09T14:29:35.471Z",
+  "name": "Bollettino del 09 marzo 2025 ore 14:59",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250309_1459_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250309_1459_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 9 marzo 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Costa, Serchio-Costa, Arno-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Serchio-Lucca, Versilia, Fiora e Albegna, Ombrone Gr-Alto, Isole, Fiora e Albegna-Costa e Giglio<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Piemonte</b>: Belbo e Bormida, Scrivia<br /><b>Sardegna</b>: Gallura, Logudoro<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Costa, Serchio-Costa, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Reno, Serchio-Lucca, Versilia, Fiora e Albegna, Ombrone Gr-Alto, Isole, Fiora e Albegna-Costa e Giglio<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250309_1459.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250309_1459.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250309_1459_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250309_1459_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250309_1459_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 10 marzo 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale, Montagna bolognese, Collina bolognese<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Costa, Serchio-Costa, Arno-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Serchio-Lucca, Versilia, Fiora e Albegna, Ombrone Gr-Alto, Isole, Fiora e Albegna-Costa e Giglio<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Lazio</b>: Bacini di Roma, Appennino di Rieti, Bacino Medio Tevere, Bacini Costieri Nord, Bacino del Liri, Bacini Costieri Sud, Aniene<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Piemonte</b>: Belbo e Bormida, Scrivia<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Costa, Serchio-Costa, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Reno, Serchio-Lucca, Versilia, Fiora e Albegna, Ombrone Gr-Alto, Isole, Fiora e Albegna-Costa e Giglio<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250309_1459.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250309_1459.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250309_1459_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250309_1459_all.zip"
+      }
+    ]
+  }
+}
