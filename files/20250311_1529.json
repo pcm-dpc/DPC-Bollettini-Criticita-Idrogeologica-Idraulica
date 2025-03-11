@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-03-11T14:43:48.205Z",
+  "name": "Bollettino del 11 marzo 2025 ore 15:29",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250311_1529_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250311_1529_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Martedì 11 marzo 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Toscana</b>: Etruria, Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Serchio-Costa, Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Serchio-Lucca, Versilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Toscana</b>: Etruria, Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Serchio-Costa, Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Serchio-Lucca, Versilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250311_1529.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250311_1529.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250311_1529_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250311_1529_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250311_1529_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Mercoledì 12 marzo 2025:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura modenese, Collina emiliana centrale, Pianura bolognese, Montagna bolognese, Collina bolognese<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale, Montagna bolognese, Collina bolognese<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Meridionale<br /><b>Emilia Romagna</b>: Pianura reggiana, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Costa romagnola, Pianura reggiana di Po, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola, Pianura piacentino-parmense<br /><b>Lazio</b>: Bacini di Roma, Bacini Costieri Nord, Bacino del Liri, Bacini Costieri Sud, Aniene<br /><b>Sardegna</b>: Campidano<br /><b>Toscana</b>: Bisenzio e Ombrone Pt<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Meridionale<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Pianura modenese, Costa ferrarese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Costa romagnola, Pianura reggiana di Po, Collina emiliana centrale, Pianura bolognese, Bassa collina e pianura romagnola, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura piacentino-parmense, Pianura ferrarese<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Costa, Serchio-Costa, Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Serchio-Lucca, Versilia, Fiora e Albegna, Isole, Fiora e Albegna-Costa e Giglio<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Calabria</b>: Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Meridionale<br /><b>Emilia Romagna</b>: Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Alta collina romagnola, Montagna romagnola<br /><b>Lazio</b>: Bacini di Roma, Appennino di Rieti, Bacino Medio Tevere, Bacini Costieri Nord, Bacino del Liri, Bacini Costieri Sud, Aniene<br /><b>Lombardia</b>: Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche, Nodo Idraulico di Milano<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Sardegna</b>: Bacini Montevecchio - Pischilappiu, Campidano, Iglesiente, Bacino del Tirso<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Nord-Orientale, versante ionico<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Costa, Serchio-Costa, Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Serchio-Lucca, Versilia, Fiora e Albegna, Isole, Fiora e Albegna-Costa e Giglio<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250311_1529.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250311_1529.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250311_1529_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250311_1529_all.zip"
+      }
+    ]
+  }
+}
