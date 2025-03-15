@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-03-15T14:24:38.855Z",
+  "name": "Bollettino del 15 marzo 2025 ore 15:06",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250315_1506_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250315_1506_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 15 marzo 2025:<br/><b>ELEVATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ROSSA:</b><br /><b>Emilia Romagna</b>: Costa romagnola, Pianura bolognese, Bassa collina e pianura romagnola<br /><b>Toscana</b>: Valdarno Inf., Arno-Costa, Bisenzio e Ombrone Pt<br /><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Pianura modenese, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Toscana</b>: Valdelsa-Valdera, Arno-Firenze, Mugello-Val di Sieve<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna bolognese<br /><b>Toscana</b>: Valdelsa-Valdera, Valdarno Inf., Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Mugello-Val di Sieve, Reno, Romagna-Toscana<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Costa ferrarese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Pianura reggiana di Po, Collina emiliana centrale, Pianura piacentino-parmense, Pianura ferrarese<br /><b>Toscana</b>: Arno-Valdarno Sup.<br /><b>Umbria</b>: Alto Tevere<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Alto Brenta-Bacchiglione-Alpone<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Sub-Appennino Dauno<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Emilia Romagna</b>: Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Bassa collina e pianura romagnola, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Lazio</b>: Bacini Costieri Nord, Bacino del Liri, Bacini Costieri Sud<br /><b>Lombardia</b>: Alta pianura orientale, Pianura centrale, Valchiavenna, Media-bassa Valtellina, Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche, Nodo Idraulico di Milano<br /><b>Marche</b>: Marc-1, Marc-2<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Sub-Appennino Dauno<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdichiana, Serchio-Garfagnana-Lima, Ombrone Gr-Costa, Arno-Casentino, Serchio-Costa, Arno-Valdarno Sup., Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Serchio-Lucca, Valtiberina, Versilia, Fiora e Albegna, Ombrone Gr-Alto, Isole, Fiora e Albegna-Costa e Giglio<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>Veneto</b>: Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250315_1506.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250315_1506.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250315_1506_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250315_1506_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250315_1506_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 16 marzo 2025:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Pianura modenese, Pianura bolognese<br /><b>Toscana</b>: Valdarno Inf., Arno-Costa, Bisenzio e Ombrone Pt<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Costa ferrarese, Costa romagnola, Pianura reggiana di Po, Collina emiliana centrale, Bassa collina e pianura romagnola, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura ferrarese<br /><b>Toscana</b>: Valdelsa-Valdera, Arno-Firenze, Mugello-Val di Sieve<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Alto Brenta-Bacchiglione-Alpone<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara, Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara, Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Lazio</b>: Appennino di Rieti, Bacino Medio Tevere, Bacino del Liri, Aniene<br /><b>Lombardia</b>: Alta pianura orientale, Pianura centrale, Valchiavenna, Media-bassa Valtellina, Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche, Nodo Idraulico di Milano<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Veneto</b>: Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250315_1506.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250315_1506.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250315_1506_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250315_1506_all.zip"
+      }
+    ]
+  }
+}
