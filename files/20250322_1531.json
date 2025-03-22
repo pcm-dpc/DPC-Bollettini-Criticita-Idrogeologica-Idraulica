@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-03-22T14:53:00.255Z",
+  "name": "Bollettino del 22 marzo 2025 ore 15:31",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250322_1531_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250322_1531_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 22 marzo 2025:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Toscana</b>: Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Serchio-Costa, Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Serchio-Lucca, Versilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura piacentino-parmense<br /><b>Toscana</b>: Bisenzio e Ombrone Pt<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura piacentino-parmense<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdichiana, Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Costa, Arno-Casentino, Serchio-Costa, Arno-Valdarno Sup., Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Serchio-Lucca, Valtiberina, Versilia, Fiora e Albegna, Ombrone Gr-Alto, Isole, Fiora e Albegna-Costa e Giglio<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Lazio</b>: Bacini Costieri Nord<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdichiana, Ombrone Gr-Costa, Arno-Casentino, Arno-Valdarno Sup., Etruria-Costa Nord, Etruria-Costa Sud, Valtiberina, Fiora e Albegna, Ombrone Gr-Alto, Isole, Fiora e Albegna-Costa e Giglio<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250322_1531.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250322_1531.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250322_1531_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250322_1531_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250322_1531_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 23 marzo 2025:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Toscana</b>: Valdelsa-Valdera, Valdarno Inf., Serchio-Garfagnana-Lima, Serchio-Costa, Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Serchio-Lucca, Versilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Toscana</b>: Bisenzio e Ombrone Pt<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Marche</b>: Marc-6, Marc-2, Marc-4<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Puglia Centrale Adriatica, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>Toscana</b>: Valdarno Inf., Serchio-Garfagnana-Lima, Serchio-Costa, Arno-Costa, Bisenzio e Ombrone Pt, Lunigiana, Reno, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Lazio</b>: Appennino di Rieti, Bacino Medio Tevere, Bacini Costieri Nord<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Puglia Centrale Adriatica, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>Toscana</b>: Ombrone Gr-Medio, Etruria, Valdichiana, Ombrone Gr-Costa, Arno-Casentino, Arno-Valdarno Sup., Etruria-Costa Nord, Etruria-Costa Sud, Valtiberina, Fiora e Albegna, Ombrone Gr-Alto, Isole, Fiora e Albegna-Costa e Giglio<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250322_1531.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250322_1531.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250322_1531_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250322_1531_all.zip"
+      }
+    ]
+  }
+}
