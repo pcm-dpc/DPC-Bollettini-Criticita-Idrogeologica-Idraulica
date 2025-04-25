@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-04-25T13:22:05.460Z",
+  "name": "Bollettino del 25 aprile 2025 ore 14:53",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250425_1453_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250425_1453_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Venerdì 25 aprile 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa ferrarese, Pianura ferrarese<br /><b>Veneto</b>: Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino del Pescara, Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-A1, Basi-B<br /><b>Lazio</b>: Appennino di Rieti, Bacino del Liri, Aniene<br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Alta pianura orientale, Pianura centrale, Laghi e Prealpi orientali, Orobie bergamasche, Bassa pianura orientale, Bassa pianura centro-orientale, Bassa pianura occidentale<br /><b>Marche</b>: Marc-5, Marc-6, Marc-1, Marc-2, Marc-3, Marc-4<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Puglia Centrale Adriatica, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino dell'Aterno, Marsica, Bacino del Pescara, Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Puglia Centrale Adriatica, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250425_1453.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250425_1453.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250425_1453_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250425_1453_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250425_1453_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Sabato 26 aprile 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Jonico Settentrionale<br /><b>Emilia Romagna</b>: Costa ferrarese, Pianura ferrarese<br /><b>Veneto</b>: Po, Fissero-Tartaro-Canalbianco e Basso Adige<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-D, Basi-E1, Basi-C<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Jonico Settentrionale<br /><b>Puglia</b>: Bacini del Lato e del Lenne, Salento<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Jonico Settentrionale<br /><b>Puglia</b>: Bacini del Lato e del Lenne, Salento<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250425_1453.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250425_1453.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250425_1453_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250425_1453_all.zip"
+      }
+    ]
+  }
+}
