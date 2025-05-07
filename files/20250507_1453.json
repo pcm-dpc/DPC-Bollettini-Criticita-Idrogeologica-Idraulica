@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-05-07T13:18:52.225Z",
+  "name": "Bollettino del 07 maggio 2025 ore 14:53",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250507_1453_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250507_1453_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Mercoledì 7 maggio 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Marche</b>: Marc-6, Marc-4<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara, Bacino Alto del Sangro<br /><b>Emilia Romagna</b>: Pianura reggiana, Pianura modenese, Costa ferrarese, Costa romagnola, Pianura reggiana di Po, Pianura bolognese, Bassa collina e pianura romagnola, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura ferrarese<br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Bassa pianura orientale, Bassa pianura centro-orientale, Bassa pianura occidentale<br /><b>Marche</b>: Marc-5, Marc-6, Marc-1, Marc-2, Marc-3, Marc-4<br /><b>Toscana</b>: Etruria, Ombrone Gr-Costa, Arno-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Isole<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara, Bacino Alto del Sangro<br /><b>Toscana</b>: Etruria, Ombrone Gr-Costa, Arno-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Isole<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250507_1453.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250507_1453.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250507_1453_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250507_1453_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250507_1453_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Giovedì 8 maggio 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Toscana</b>: Etruria, Etruria-Costa Nord, Etruria-Costa Sud<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Bassa pianura orientale, Bassa pianura centro-orientale, Bassa pianura occidentale<br /><b>Toscana</b>: Etruria, Ombrone Gr-Costa, Arno-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Isole<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Toscana</b>: Etruria, Ombrone Gr-Costa, Arno-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Isole<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250507_1453.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250507_1453.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250507_1453_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250507_1453_all.zip"
+      }
+    ]
+  }
+}
