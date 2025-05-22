@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-05-22T13:36:27.436Z",
+  "name": "Bollettino del 22 maggio 2025 ore 15:08",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250522_1508_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250522_1508_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Giovedì 22 maggio 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Orobie bergamasche, Nodo Idraulico di Milano<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa ferrarese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Costa romagnola, Pianura bolognese, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola, Pianura piacentino-parmense, Pianura ferrarese<br /><b>Lazio</b>: Bacini di Roma, Appennino di Rieti, Bacino Medio Tevere, Bacini Costieri Nord, Bacino del Liri, Bacini Costieri Sud, Aniene<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Appennino pavese, Bassa pianura occidentale<br /><b>Marche</b>: Marc-5, Marc-6, Marc-2, Marc-4<br /><b>Toscana</b>: Etruria, Valdichiana, Ombrone Gr-Costa, Arno-Casentino, Arno-Valdarno Sup., Etruria-Costa Nord, Etruria-Costa Sud, Mugello-Val di Sieve, Valtiberina, Ombrone Gr-Alto, Isole, Fiora e Albegna-Costa e Giglio<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Friuli Venezia Giulia</b>: Bacino montano del Tagliamento e del Torre, Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino del Livenza e del Lemene<br /><b>Lombardia</b>: Alta pianura orientale, Pianura centrale, Laghi e Prealpi Varesine, Valcamonica, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche, Nodo Idraulico di Milano<br /><b>Piemonte</b>: Pianura Torinese e Colline, Pianura Cuneese, Belbo e Bormida, Valle Tanaro, Valli Varaita, Maira e Stura, Valli Susa, Chisone, Pellice e Po, Scrivia<br /><b>Toscana</b>: Etruria, Valdichiana, Ombrone Gr-Costa, Arno-Casentino, Arno-Valdarno Sup., Etruria-Costa Nord, Etruria-Costa Sud, Mugello-Val di Sieve, Valtiberina, Ombrone Gr-Alto, Isole, Fiora e Albegna-Costa e Giglio<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Umbria</b>: Alto Tevere<br /><b>Veneto</b>: Alto Brenta-Bacchiglione-Alpone, Piave pedemontano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250522_1508.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250522_1508.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250522_1508_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250522_1508_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250522_1508_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Venerdì 23 maggio 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Orobie bergamasche<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara, Bacino Basso del Sangro<br /><b>Campania</b>: Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /><b>Emilia Romagna</b>: Costa ferrarese, Costa romagnola, Pianura bolognese, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola, Pianura ferrarese<br /><b>Lazio</b>: Appennino di Rieti, Bacino del Liri, Bacini Costieri Sud, Aniene<br /><b>Marche</b>: Marc-5, Marc-6, Marc-1, Marc-2, Marc-3, Marc-4<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Toscana</b>: Etruria, Ombrone Gr-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Isole, Fiora e Albegna-Costa e Giglio<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara, Bacino Basso del Sangro<br /><b>Lombardia</b>: Alta pianura orientale, Valcamonica, Laghi e Prealpi orientali<br /><b>Piemonte</b>: Belbo e Bormida, Valle Tanaro, Scrivia<br /><b>Toscana</b>: Etruria, Ombrone Gr-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Isole, Fiora e Albegna-Costa e Giglio<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Umbria</b>: Nera - Corno, Alto Tevere<br /><b>Veneto</b>: Alto Brenta-Bacchiglione-Alpone, Piave pedemontano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250522_1508.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250522_1508.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250522_1508_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250522_1508_all.zip"
+      }
+    ]
+  }
+}
