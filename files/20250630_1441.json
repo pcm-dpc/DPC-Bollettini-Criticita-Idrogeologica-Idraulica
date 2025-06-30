@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-06-30T13:26:22.582Z",
+  "name": "Bollettino del 30 giugno 2025 ore 14:41",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250630_1441_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250630_1441_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Lunedì 30 giugno 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Valchiavenna, Media-bassa Valtellina, Valcamonica, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche, Alta Valtellina<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Veneto</b>: Alto Piave, Piave pedemontano<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Valle d'Aosta</b>: Dorsale settentrionale e nord-occidentale, Valgrisenche e Valdigne, Valle di Cogne, Valsavarenche e Valle di Rhêmes<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250630_1441.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250630_1441.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250630_1441_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250630_1441_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250630_1441_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Martedì 1 luglio 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Pianura modenese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Pianura reggiana di Po, Collina emiliana centrale, Pianura piacentino-parmense<br /><b>Lombardia</b>: Valchiavenna, Media-bassa Valtellina, Valcamonica, Laghi e Prealpi orientali, Appennino pavese, Lario e Prealpi occidentali, Orobie bergamasche, Alta Valtellina<br /><b>Veneto</b>: Alto Piave, Piave pedemontano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250630_1441.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250630_1441.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250630_1441_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250630_1441_all.zip"
+      }
+    ]
+  }
+}
