@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-09-02T13:20:49.105Z",
+  "name": "Bollettino del 02 settembre 2025 ore 14:59",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250902_1459_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250902_1459_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Martedì 2 settembre 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Bassa pianura centro-occidentale, Laghi e Prealpi Varesine, Nodo Idraulico di Milano<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Campania</b>: Basso Cilento, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele, Piana Sele e Alto Cilento<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Pianura reggiana, Pianura modenese, Costa ferrarese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Costa romagnola, Pianura reggiana di Po, Collina emiliana centrale, Pianura bolognese, Bassa collina e pianura romagnola, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura piacentino-parmense, Pianura ferrarese<br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino montano del Tagliamento e del Torre, Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino del Livenza e del Lemene<br /><b>Lazio</b>: Bacino del Liri<br /><b>Lombardia</b>: Alta pianura orientale, Pianura centrale, Laghi e Prealpi Varesine, Valcamonica, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche, Bassa pianura orientale, Bassa pianura centro-orientale, Nodo Idraulico di Milano<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Umbria</b>: Chiani - Paglia, Nera - Corno, Trasimeno - Nestore, Chiascio - Topino, Medio Tevere, Alto Tevere<br /><b>Veneto</b>: Basso Brenta-Bacchiglione e Fratta Gorzone, Livenza, Lemene e Tagliamento, Adige-Garda e monti Lessini, Alto Brenta-Bacchiglione-Alpone, Po, Fissero-Tartaro-Canalbianco e Basso Adige, Piave pedemontano, Basso Piave, Sile e Bacino scolante in laguna<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Marsica, Bacino Alto del Sangro<br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino montano del Tagliamento e del Torre, Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino del Livenza e del Lemene<br /><b>Lombardia</b>: Valchiavenna, Media-bassa Valtellina, Laghi e Prealpi Varesine, Laghi e Prealpi orientali, Lario e Prealpi occidentali, Orobie bergamasche, Nodo Idraulico di Milano<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250902_1459.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250902_1459.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250902_1459_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250902_1459_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20250902_1459_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Mercoledì 3 settembre 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Meridionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Meridionale<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20250902_1459.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20250902_1459.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20250902_1459_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20250902_1459_all.zip"
+      }
+    ]
+  }
+}
