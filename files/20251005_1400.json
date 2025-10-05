@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-10-05T12:16:10.581Z",
+  "name": "Bollettino del 05 ottobre 2025 ore 14:00",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20251005_1400_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20251005_1400_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 5 ottobre 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-E2, Basi-E1<br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>Campania</b>: Basso Cilento, Alto Volturno e Matese, Piana campana, Napoli, Isole e Area vesuviana, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele, Piana Sele e Alto Cilento<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Puglia Centrale Adriatica, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Centro-settentrionale, Versante Jionico Centro-meridionale, Versante Tirrenico Settentrionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Meridionale<br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino dell'Isonzo e Pianura di Udine e Gorizia<br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Puglia Centrale Adriatica, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20251005_1400.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20251005_1400.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20251005_1400_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20251005_1400_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20251005_1400_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 6 ottobre 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Puglia Centrale Adriatica, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante ionico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Puglia</b>: Basso Ofanto, Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Bacini del Lato e del Lenne, Puglia Centrale Adriatica, Salento, Puglia Centrale Bradanica, Sub-Appennino Dauno<br /><b>Sicilia</b>: Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Orientale, versante ionico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20251005_1400.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20251005_1400.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20251005_1400_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20251005_1400_all.zip"
+      }
+    ]
+  }
+}
