@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-11-15T14:32:13.221Z",
+  "name": "Bollettino del 15 novembre 2025 ore 15:00",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20251115_1500_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20251115_1500_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 15 novembre 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>Toscana</b>: Valdarno Inf., Serchio-Garfagnana-Lima, Serchio-Costa, Bisenzio e Ombrone Pt, Lunigiana, Reno, Serchio-Lucca, Versilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Toscana</b>: Valdarno Inf., Serchio-Garfagnana-Lima, Serchio-Costa, Bisenzio e Ombrone Pt, Lunigiana, Reno, Serchio-Lucca, Versilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20251115_1500.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20251115_1500.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20251115_1500_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20251115_1500_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20251115_1500_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 16 novembre 2025:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Montagna piacentino-parmense, Alta collina piacentino-parmense, Collina emiliana centrale<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura reggiana, Pianura modenese, Bassa collina piacentino-parmense, Pianura reggiana di Po, Pianura piacentino-parmense<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Toscana</b>: Valdarno Inf., Serchio-Garfagnana-Lima, Serchio-Costa, Bisenzio e Ombrone Pt, Lunigiana, Reno, Serchio-Lucca, Versilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale<br /><b>Liguria</b>: Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Ponente, Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Ponente<br /><b>Lombardia</b>: Valcamonica, Laghi e Prealpi orientali, Orobie bergamasche<br /><b>Toscana</b>: Valdarno Inf., Serchio-Garfagnana-Lima, Serchio-Costa, Bisenzio e Ombrone Pt, Lunigiana, Reno, Serchio-Lucca, Versilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20251115_1500.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20251115_1500.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20251115_1500_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20251115_1500_all.zip"
+      }
+    ]
+  }
+}
