@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2025-11-23T15:25:16.187Z",
+  "name": "Bollettino del 23 novembre 2025 ore 15:44",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20251123_1544_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20251123_1544_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 23 novembre 2025:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20251123_1544.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20251123_1544.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20251123_1544_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20251123_1544_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20251123_1544_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 24 novembre 2025:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Campania</b>: Tusciano e Alto Sele, Piana Sele e Alto Cilento, Basso Cilento, Piana campana, Napoli, Isole e Area vesuviana, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /><b>Emilia Romagna</b>: Pianura modenese, Montagna emiliana centrale, Collina emiliana centrale, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Lazio</b>: Bacini Costieri Sud, Bacino del Liri<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Bacino Alto del Sangro, Marsica<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-A1, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Sub-Appennino Dauno<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Trasimeno - Nestore, Chiani - Paglia, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Bacino Alto del Sangro, Marsica<br /><b>Calabria</b>: Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Campania</b>: Tusciano e Alto Sele, Alta Irpinia e Sannio, Piana Sele e Alto Cilento, Alto Volturno e Matese, Basso Cilento, Tanagro, Piana campana, Napoli, Isole e Area vesuviana, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Alta collina piacentino-parmense, Montagna emiliana centrale, Collina emiliana centrale, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Friuli Venezia Giulia</b>: Bacino di Levante / Carso, Bacino dell'Isonzo e Pianura di Udine e Gorizia<br /><b>Lazio</b>: Bacini Costieri Sud, Bacini Costieri Nord, Aniene, Bacino Medio Tevere, Bacino del Liri, Appennino di Rieti, Bacini di Roma<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Sub-Appennino Dauno<br /><b>Sardegna</b>: Bacino del Tirso, Logudoro, Bacini Montevecchio - Pischilappiu<br /><b>Toscana</b>: Ombrone Gr-Medio, Isole, Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Valdichiana, Valdelsa-Valdera, Ombrone Gr-Costa, Arno-Casentino, Serchio-Costa, Arno-Valdarno Sup., Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Serchio-Lucca, Valtiberina, Versilia, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Alto<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Alto Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20251123_1544.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20251123_1544.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20251123_1544_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20251123_1544_all.zip"
+      }
+    ]
+  }
+}
