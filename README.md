@@ -32,7 +32,7 @@ Eventuali aggiornamenti dopo le ore 16:00
 ## Formato dei dati
 
 ## Collegamenti utili
-* [Rete dei Centri Funzionali](https://servizio-nazionale.protezionecivile.gov.it/it/attivita/previsione/rete-dei-centri-funzionali)
+* [Rete dei Centri Funzionali](https://servizio-nazionale.protezionecivile.gov.it/it/approfondimento/rete-dei-centri-funzionali/)
 * [Centro Funzionale Centrale per il rischio meteo-idrogeologico e idraulico](https://rischi.protezionecivile.gov.it/it/meteo-idro/attivita/centro-funzionale-centrale)
 * [Allertamento meteo-idro](https://rischi.protezionecivile.gov.it/it/approfondimento/rischio-meteo-idro-lallertamento)
 
