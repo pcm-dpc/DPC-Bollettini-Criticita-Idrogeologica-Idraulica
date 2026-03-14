@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-03-14T14:42:02.038Z",
+  "name": "Bollettino del 14 marzo 2026 ore 15:21",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260314_1521_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260314_1521_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 14 marzo 2026:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Liguria</b>: Bacini Liguri Marittimi di Centro, Bacini Liguri Padani di Ponente<br /><b>Lombardia</b>: Laghi e Prealpi Varesine<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Nodo Idraulico di Milano<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Liguria</b>: Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Levante, Bacini Liguri Padani di Ponente, Bacini Liguri Marittimi di Ponente<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Levante, Bacini Liguri Marittimi di Ponente<br /><b>Lombardia</b>: Valchiavenna, Lario e Prealpi occidentali, Nodo Idraulico di Milano, Bassa pianura occidentale, Media-bassa Valtellina, Appennino pavese<br /><b>Piemonte</b>: Belbo e Bormida, Scrivia, Pianura settentrionale<br /><b>Sardegna</b>: Bacino del Tirso, Logudoro, Bacini Montevecchio - Pischilappiu<br /><b>Valle d'Aosta</b>: Valle d’Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche, Bassa Valle d’Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d’Ayas, Valle di Champorcher e Valle di Gressoney<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260314_1521.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260314_1521.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260314_1521_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260314_1521_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260314_1521_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 15 marzo 2026:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Liguria</b>: Bacini Liguri Marittimi di Centro, Bacini Liguri Padani di Ponente<br /><b>Lombardia</b>: Laghi e Prealpi Varesine<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Centro-settentrionale<br /><b>Emilia Romagna</b>: Pianura piacentino-parmense, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Lombardia</b>: Nodo Idraulico di Milano<br /><b>Sicilia</b>: Centro-Meridionale e isole Pelagie, Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Sud-Orientale, versante Stretto di Sicilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Centro-settentrionale<br /><b>Liguria</b>: Bacini Liguri Marittimi di Centro, Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Levante, Bacini Liguri Padani di Ponente<br /><b>Puglia</b>: Bacini del Lato e del Lenne, Salento<br /><b>Sicilia</b>: Centro-Meridionale e isole Pelagie, Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Sud-Orientale, versante Stretto di Sicilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Centro-settentrionale<br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Liguria</b>: Bacini Liguri Marittimi di Levante, Bacini Liguri Padani di Levante<br /><b>Lombardia</b>: Valchiavenna, Orobie bergamasche, Lario e Prealpi occidentali, Nodo Idraulico di Milano, Bassa pianura occidentale, Media-bassa Valtellina, Appennino pavese<br /><b>Piemonte</b>: Belbo e Bormida, Scrivia, Pianura settentrionale<br /><b>Puglia</b>: Bacini del Lato e del Lenne, Salento<br /><b>Sicilia</b>: Centro-Meridionale e isole Pelagie, Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Sud-Orientale, versante Stretto di Sicilia<br /><b>Valle d'Aosta</b>: Valle d’Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche, Bassa Valle d’Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d’Ayas, Valle di Champorcher e Valle di Gressoney<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260314_1521.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260314_1521.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260314_1521_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260314_1521_all.zip"
+      }
+    ]
+  }
+}
