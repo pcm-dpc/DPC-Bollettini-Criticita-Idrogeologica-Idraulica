@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-03-15T14:14:04.521Z",
+  "name": "Bollettino del 15 marzo 2026 ore 14:47",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260315_1447_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260315_1447_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 15 marzo 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Centro-settentrionale<br /><b>Emilia Romagna</b>: Pianura piacentino-parmense, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Lombardia</b>: Nodo Idraulico di Milano<br /><b>Sicilia</b>: Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Centro-settentrionale<br /><b>Sicilia</b>: Bacino del Fiume Simeto, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Centro-settentrionale<br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Alta collina piacentino-parmense<br /><b>Lombardia</b>: Lario e Prealpi occidentali, Laghi e Prealpi Varesine, Nodo Idraulico di Milano, Bassa pianura occidentale, Appennino pavese<br /><b>Piemonte</b>: Belbo e Bormida, Scrivia, Pianura settentrionale<br /><b>Sicilia</b>: Bacino del Fiume Simeto, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260315_1447.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260315_1447.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260315_1447_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260315_1447_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260315_1447_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 16 marzo 2026:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Calabria</b>: Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Centro-settentrionale<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Sud-Orientale, versante Stretto di Sicilia<br /><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Calabria</b>: Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Centro-settentrionale<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Sud-Orientale, versante Stretto di Sicilia<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Calabria</b>: Versante Jonico Settentrionale, Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale, Versante Jionico Centro-meridionale, Versante Jonico Centro-settentrionale<br /><b>Sicilia</b>: Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Sud-Orientale, versante Stretto di Sicilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Centro-Settentrionale, versante tirrenico<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-E2, Basi-D, Basi-A1, Basi-C, Basi-E1, Basi-B<br /><b>Puglia</b>: Basso Ofanto, Bacini del Lato e del Lenne, Salento, Puglia Centrale Bradanica<br /><b>Sicilia</b>: Centro-Meridionale e isole Pelagie, Centro-Settentrionale, versante tirrenico<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Puglia</b>: Basso Ofanto, Bacini del Lato e del Lenne, Salento, Puglia Centrale Bradanica<br /><b>Sicilia</b>: Centro-Meridionale e isole Pelagie, Centro-Settentrionale, versante tirrenico<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260315_1447.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260315_1447.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260315_1447_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260315_1447_all.zip"
+      }
+    ]
+  }
+}
