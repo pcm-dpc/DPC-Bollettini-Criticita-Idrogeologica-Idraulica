@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-03-25T14:58:18.737Z",
+  "name": "Bollettino del 25 marzo 2026 ore 15:39",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260325_1539_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260325_1539_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Mercoledì 25 marzo 2026:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260325_1539.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260325_1539.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260325_1539_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260325_1539_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260325_1539_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Giovedì 26 marzo 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Emilia Romagna</b>: Costa romagnola, Bassa collina e pianura romagnola<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino dell'Aterno, Bacino del Pescara, Bacino Alto del Sangro, Marsica, Bacino Basso del Sangro<br /><b>Basilicata</b>: Basi-D<br /><b>Calabria</b>: Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Sub-Appennino Dauno<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino dell'Aterno, Bacino del Pescara, Bacino Alto del Sangro, Marsica, Bacino Basso del Sangro<br /><b>Calabria</b>: Versante Tirrenico Meridionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Emilia Romagna</b>: Costa romagnola, Bassa collina e pianura romagnola, Alta collina romagnola<br /><b>Lazio</b>: Appennino di Rieti<br /><b>Marche</b>: Marc-2, Marc-6, Marc-4<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Basso Fortore, Gargano e Tremiti, Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Sub-Appennino Dauno<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260325_1539.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260325_1539.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260325_1539_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260325_1539_all.zip"
+      }
+    ]
+  }
+}
