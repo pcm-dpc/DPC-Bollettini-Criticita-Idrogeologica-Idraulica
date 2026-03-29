@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-03-29T13:02:32.308Z",
+  "name": "Bollettino del 29 marzo 2026 ore 14:46",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260329_1446_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260329_1446_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 29 marzo 2026:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260329_1446.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260329_1446.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260329_1446_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260329_1446_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260329_1446_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 30 marzo 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino dell'Aterno, Bacino del Pescara, Bacino Alto del Sangro, Marsica<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino dell'Aterno, Bacino del Pescara, Bacino Alto del Sangro, Marsica<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260329_1446.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260329_1446.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260329_1446_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260329_1446_all.zip"
+      }
+    ]
+  }
+}
