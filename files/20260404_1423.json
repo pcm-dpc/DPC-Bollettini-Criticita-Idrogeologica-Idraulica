@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-04-04T12:53:15.587Z",
+  "name": "Bollettino del 04 aprile 2026 ore 14:23",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260404_1423_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260404_1423_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Sabato 4 aprile 2026:<br/><b>MODERATA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA ARANCIONE:</b><br /><b>Basilicata</b>: Basi-E2<br /><b>Puglia</b>: Bacini del Lato e del Lenne<br /><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Puglia</b>: Bacini del Lato e del Lenne<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-E1, Basi-B<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea<br /><b>Puglia</b>: Basso Fortore, Basso Ofanto<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Sicilia</b>: Centro-Meridionale e isole Pelagie, Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Nord-Orientale, versante ionico, Sud-Orientale, versante Stretto di Sicilia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara<br /><b>Basilicata</b>: Basi-E2, Basi-A1, Basi-C, Basi-E1, Basi-B<br /><b>Puglia</b>: Basso Fortore, Basso Ofanto, Sub-Appennino Dauno<br /><b>Sicilia</b>: Centro-Meridionale e isole Pelagie, Sud-Orientale, versante ionico, Bacino del Fiume Simeto, Nord-Orientale, versante ionico, Sud-Orientale, versante Stretto di Sicilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260404_1423.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260404_1423.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260404_1423_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260404_1423_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260404_1423_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Domenica 5 aprile 2026:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-E2<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea<br /><b>Puglia</b>: Basso Fortore, Bacini del Lato e del Lenne<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino del Pescara<br /><b>Basilicata</b>: Basi-E2, Basi-A1, Basi-C, Basi-E1, Basi-B<br /><b>Puglia</b>: Basso Fortore, Bacini del Lato e del Lenne, Sub-Appennino Dauno<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260404_1423.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260404_1423.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260404_1423_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260404_1423_all.zip"
+      }
+    ]
+  }
+}
