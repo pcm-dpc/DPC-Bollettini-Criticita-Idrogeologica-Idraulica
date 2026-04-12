@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-04-12T13:37:23.573Z",
+  "name": "Bollettino del 12 aprile 2026 ore 14:58",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260412_1458_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260412_1458_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Domenica 12 aprile 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Molise</b>: Litoranea<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260412_1458.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260412_1458.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260412_1458_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260412_1458_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260412_1458_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Lunedì 13 aprile 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Molise</b>: Litoranea<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Costa romagnola, Pianura modenese, Costa ferrarese, Montagna emiliana centrale, Collina emiliana centrale, Pianura bolognese, Bassa collina e pianura romagnola, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura ferrarese, Pianura reggiana di Po, Pianura reggiana<br /><b>Lombardia</b>: Nodo Idraulico di Milano, Bassa pianura occidentale<br /><b>Toscana</b>: Ombrone Gr-Medio, Isole, Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Ombrone Gr-Costa, Arno-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Ombrone Gr-Alto<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Trasimeno - Nestore, Chiani - Paglia, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino Alto del Sangro, Bacino Basso del Sangro<br /><b>Lazio</b>: Bacini Costieri Nord, Bacino Medio Tevere<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro, Litoranea<br /><b>Piemonte</b>: Valli Orco, Lanzo e Sangone, Valli Varaita, Maira e Stura, Valle Tanaro, Pianura Torinese e Colline, Pianura Cuneese, Toce, Val Sesia, Cervo e Chiusella, Valli Susa, Chisone, Pellice e Po, Pianura settentrionale<br /><b>Toscana</b>: Ombrone Gr-Medio, Isole, Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Ombrone Gr-Costa, Arno-Costa, Etruria-Costa Nord, Etruria-Costa Sud, Ombrone Gr-Alto<br /><b>Valle d'Aosta</b>: Valle d’Aosta centrale, Valle del Gran San Bernardo da Aosta a Valpelline,Valle di Saint-Barthélemy e Valtournenche, Bassa Valle d’Aosta, dalla Gola di Montjovet a Pont-Saint-Martin, Valle del torrente Chalamy, Valle d’Ayas, Valle di Champorcher e Valle di Gressoney<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260412_1458.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260412_1458.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260412_1458_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260412_1458_all.zip"
+      }
+    ]
+  }
+}
