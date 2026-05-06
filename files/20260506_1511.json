@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-05-06T13:38:27.837Z",
+  "name": "Bollettino del 06 maggio 2026 ore 15:11",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260506_1511_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260506_1511_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Mercoledì 6 maggio 2026:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Toscana</b>: Serchio-Costa, Serchio-Lucca<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura piacentino-parmense, Pianura modenese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Montagna emiliana centrale, Collina emiliana centrale, Pianura bolognese, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura reggiana di Po, Pianura reggiana<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura piacentino-parmense, Costa romagnola, Pianura modenese, Costa ferrarese, Bassa collina piacentino-parmense, Montagna piacentino-parmense, Alta collina piacentino-parmense, Montagna emiliana centrale, Collina emiliana centrale, Pianura bolognese, Bassa collina e pianura romagnola, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola, Pianura ferrarese, Pianura reggiana di Po, Pianura reggiana<br /><b>Lazio</b>: Bacini Costieri Nord, Bacino Medio Tevere, Bacini di Roma<br /><b>Lombardia</b>: Orobie bergamasche, Lario e Prealpi occidentali, Laghi e Prealpi Varesine, Nodo Idraulico di Milano<br /><b>Toscana</b>: Ombrone Gr-Medio, Isole, Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Valdichiana, Valdelsa-Valdera, Ombrone Gr-Costa, Arno-Casentino, Serchio-Costa, Arno-Valdarno Sup., Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Serchio-Lucca, Valtiberina, Versilia, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Alto<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Trasimeno - Nestore, Chiani - Paglia, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Alta collina piacentino-parmense, Montagna emiliana centrale, Collina emiliana centrale, Montagna bolognese, Collina bolognese, Alta collina romagnola, Montagna romagnola<br /><b>Lombardia</b>: Orobie bergamasche, Lario e Prealpi occidentali, Laghi e Prealpi Varesine, Nodo Idraulico di Milano<br /><b>Toscana</b>: Ombrone Gr-Medio, Isole, Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Valdichiana, Valdelsa-Valdera, Ombrone Gr-Costa, Arno-Casentino, Arno-Valdarno Sup., Arno-Firenze, Arno-Costa, Bisenzio e Ombrone Pt, Etruria-Costa Nord, Etruria-Costa Sud, Lunigiana, Mugello-Val di Sieve, Reno, Romagna-Toscana, Valtiberina, Versilia, Valdarno Inf., Serchio-Garfagnana-Lima, Ombrone Gr-Alto<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260506_1511.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260506_1511.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260506_1511_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260506_1511_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260506_1511_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Giovedì 7 maggio 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Pianura bolognese<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lazio</b>: Bacini Costieri Nord, Bacino Medio Tevere<br /><b>Lombardia</b>: Orobie bergamasche, Lario e Prealpi occidentali, Laghi e Prealpi Varesine, Nodo Idraulico di Milano<br /><b>Umbria</b>: Chiani - Paglia, Medio Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Orobie bergamasche, Lario e Prealpi occidentali, Laghi e Prealpi Varesine, Nodo Idraulico di Milano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260506_1511.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260506_1511.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260506_1511_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260506_1511_all.zip"
+      }
+    ]
+  }
+}
