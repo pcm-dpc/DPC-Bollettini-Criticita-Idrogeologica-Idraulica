@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-05-15T13:32:02.977Z",
+  "name": "Bollettino del 15 maggio 2026 ore 15:20",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260515_1520_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260515_1520_today.json",
+    "html_descrition": "<p>Per la giornata di oggi, Venerdì 15 maggio 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lazio</b>: Bacini Costieri Sud, Aniene, Bacino del Liri, Appennino di Rieti<br /><b>Lombardia</b>: Pianura centrale, Alta pianura orientale, Bassa pianura occidentale, Bassa pianura centro-occidentale, Bassa pianura centro-orientale, Bassa pianura orientale<br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Ombrone Gr-Medio, Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Valdichiana, Ombrone Gr-Costa, Arno-Casentino, Arno-Valdarno Sup., Etruria-Costa Sud, Mugello-Val di Sieve, Valtiberina, Ombrone Gr-Alto<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Trasimeno - Nestore, Chiani - Paglia, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Ombrone Gr-Medio, Fiora e Albegna-Costa e Giglio, Fiora e Albegna, Etruria, Valdichiana, Ombrone Gr-Costa, Arno-Casentino, Arno-Valdarno Sup., Etruria-Costa Sud, Mugello-Val di Sieve, Valtiberina, Ombrone Gr-Alto<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260515_1520.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260515_1520.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260515_1520_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260515_1520_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260515_1520_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani, Sabato 16 maggio 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacino dell'Aterno, Bacino Alto del Sangro, Marsica<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Campania</b>: Tusciano e Alto Sele, Alta Irpinia e Sannio, Piana Sele e Alto Cilento, Alto Volturno e Matese, Basso Cilento, Tanagro, Piana campana, Napoli, Isole e Area vesuviana, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini<br /><b>Emilia Romagna</b>: Costa romagnola, Costa ferrarese, Pianura bolognese, Bassa collina e pianura romagnola, Alta collina romagnola, Montagna romagnola, Pianura ferrarese<br /><b>Lazio</b>: Bacini Costieri Sud, Aniene, Bacino del Liri, Appennino di Rieti<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Piemonte</b>: Valli Varaita, Maira e Stura, Valle Tanaro<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Trasimeno - Nestore, Chiani - Paglia, Medio Tevere, Alto Tevere<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>Umbria</b>: Chiascio - Topino, Nera - Corno, Trasimeno - Nestore, Chiani - Paglia, Medio Tevere, Alto Tevere<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260515_1520.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260515_1520.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260515_1520_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260515_1520_all.zip"
+      }
+    ]
+  }
+}
