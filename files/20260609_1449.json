@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-06-09T13:52:29.706Z",
+  "name": "Bollettino del 09 giugno 2026 ore 14:49",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260609_1449_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260609_1449_today.json",
+    "html_descrition": "<p>Per la giornata di oggi,  martedì 9 giugno 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Lario e Prealpi occidentali, Orobie bergamasche, Valchiavenna, Laghi e Prealpi Varesine<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Veneto</b>: Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite, Dolomiti orientali: Cadore, Comelico, Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna, Prealpi trevigiane - Bacino Livenza, Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave, Alta pianura trevigiana orientale - Bacino Livenza, Feltrino - Bacino Cismon, Prealpi trevigiane - Bacino Piave, Lessinia meridionale e alta pianura veronese - Bacino Adige, Alpago Cansiglio - Bacino Piave, Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige, Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone, Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260609_1449.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260609_1449.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260609_1449_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260609_1449_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260609_1449_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani,  mercoledì 10 giugno 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Friuli Venezia Giulia</b>: Bacino dell'Isonzo e Pianura di Udine e Gorizia, Bacino di Levante / Carso, Bacino del Livenza e del Lemene, Bacino montano del Tagliamento e del Torre<br /><b>Lombardia</b>: Bassa pianura occidentale, Bassa pianura centro-occidentale, Bassa pianura centro-orientale, Bassa pianura orientale, Lario e Prealpi occidentali, Orobie bergamasche, Valchiavenna, Media-bassa Valtellina, Laghi e Prealpi Varesine, Valcamonica, Laghi e Prealpi orientali, Nodo Idraulico di Milano, Pianura centrale, Alta pianura orientale<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /><b>Veneto</b>: Dolomiti Occidentali: Agordino, Zoldano, alta Val Boite, Dolomiti orientali: Cadore, Comelico, Pianura centro meridionale e Bassa padovana - Bacini Fratta-Gorzone, Adige, Scolante in Laguna, Colli Euganei e Colli Berici - Bacini Bacchiglione Fratta-Gorzone, Costa centro meridionale - Bacini Brenta Bacchiglione, Fratta-Gorzone, Adige, Scolante in Laguna, Costa meridionale e Delta Po - Bacini Fissero Tartaro Canalbianco, Po, Adige, Alta pianura trevigiana occidentale - Bacini Piave, Sile, Scolante in Laguna, Prealpi trevigiane - Bacino Livenza, Pianura centro meridionale - Bacini Bacchiglione Fratta-Gorzone, Adige, Scolante in Laguna, Fissero Tartaro Canalbianco, Prealpi bellunesi Valbelluna/Feltrino - Bacino Piave, Alta pianura trevigiana orientale - Bacino Livenza, Feltrino - Bacino Cismon, Pianura centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave, Pianura polesana centrale - Bacini Fissero Tartaro Canalbianco,Po, Adige, Prealpi trevigiane - Bacino Piave, Lessinia meridionale e alta pianura veronese - Bacino Adige, Costa centro-orientale - Bacini del Piave, Sile, Scolante in Laguna, Pianura tra Livenza e Piave, Costa orientale Bacini Livenza, Lemene, Tagliamento, Pianura tra Livenza e Piave, Pianura orientale - Bacini Livenza, Lemene, Pianura tra Livenza e Piave, Alpago Cansiglio - Bacino Piave, Prealpi orientali, Baldo e Lessinia settentrionale - Bacino Adige, Pianura centrale - Bacini Brenta Bacchiglione, Muson, Scolante in Laguna, Polesine occidentale, Bassa Veronese e Valli Grandi Veronesi - Bacini Fissero Tartaro Canalbianco, Po, Adige, Pedemontana e alta pianura centrale - Bacini Brenta Bacchiglione Agno-Guà Alpone, Prealpi vicentine Altopiano dei Sette Comuni - Bacini Brenta Bacchiglione Agno<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Lombardia</b>: Lario e Prealpi occidentali, Orobie bergamasche, Valchiavenna, Media-bassa Valtellina, Valcamonica<br /><b>Trentino Alto Adige</b>: Provincia Autonoma di Bolzano<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260609_1449.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260609_1449.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260609_1449_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260609_1449_all.zip"
+      }
+    ]
+  }
+}
