@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-06-16T12:39:42.341Z",
+  "name": "Bollettino del 16 giugno 2026 ore 14:24",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260616_1424_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260616_1424_today.json",
+    "html_descrition": "<p>Per la giornata di oggi,  martedì 16 giugno 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Basilicata</b>: Basi-A1, Basi-B, Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Campania</b>: Alta Irpinia e Sannio, Tanagro, Tusciano e Alto Sele<br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>Sicilia</b>: Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Bacino del Fiume Simeto, Centro-Meridionale e isole Pelagie<br /><b>Umbria</b>: Chiascio - Topino, Alto Tevere, Nera - Corno<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Tirrenico Settentrionale<br /><b>Sicilia</b>: Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Nord-Occidentale e isole Egadi e Ustica, Sud-Occidentale e isola di Pantelleria, Bacino del Fiume Simeto, Centro-Meridionale e isole Pelagie<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260616_1424.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260616_1424.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260616_1424_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260616_1424_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260616_1424_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani,  mercoledì 17 giugno 2026:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260616_1424.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260616_1424.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260616_1424_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260616_1424_all.zip"
+      }
+    ]
+  }
+}
