@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-06-17T12:55:14.664Z",
+  "name": "Bollettino del 17 giugno 2026 ore 14:11",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260617_1411_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260617_1411_today.json",
+    "html_descrition": "<p>Per la giornata di oggi,  mercoledì 17 giugno 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jionico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacini Tordino Vomano, Bacino Alto del Sangro, Bacino del Pescara, Bacino dell'Aterno<br /><b>Basilicata</b>: Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jionico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale<br /><b>Campania</b>: Alta Irpinia e Sannio, Tanagro, Piana campana, Napoli, Isole e Area vesuviana, Alto Volturno e Matese, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele<br /><b>Lazio</b>: Bacino del Liri, Aniene, Appennino di Rieti<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Umbria</b>: Chiascio - Topino, Alto Tevere, Nera - Corno<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jionico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260617_1411.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260617_1411.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260617_1411_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260617_1411_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260617_1411_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani,  giovedì 18 giugno 2026:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260617_1411.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260617_1411.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260617_1411_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260617_1411_all.zip"
+      }
+    ]
+  }
+}
