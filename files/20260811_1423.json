@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-08-11T13:00:32.637Z",
+  "name": "Bollettino del 11 agosto 2026 ore 14:23",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260811_1423_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260811_1423_today.json",
+    "html_descrition": "<p>Per la giornata di oggi,  martedì 11 agosto 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino dell'Aterno<br /><b>Campania</b>: Alto Volturno e Matese, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele<br /><b>Lazio</b>: Bacino del Liri, Aniene, Appennino di Rieti<br /><b>Lombardia</b>: Bassa pianura occidentale, Bassa pianura centro-occidentale, Appennino pavese<br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>Piemonte</b>: Pianura Cuneese, Valli Orco, Lanzo e Sangone, Scrivia, Valli Varaita, Maira e Stura, Valli Susa, Chisone, Pellice e Po, Valle Tanaro, Belbo e Bormida, Pianura Torinese e Colline<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino dell'Aterno<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260811_1423.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260811_1423.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260811_1423_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260811_1423_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260811_1423_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani,  mercoledì 12 agosto 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino dell'Aterno<br /><b>Lazio</b>: Bacino Medio Tevere, Bacino del Liri, Aniene, Appennino di Rieti<br /><b>Toscana</b>: Ombrone Gr-Medio, Ombrone Gr-Alto, Fiora e Albegna, Etruria, Valdelsa-Valdera<br /><b>Umbria</b>: Medio Tevere, Trasimeno - Nestore, Nera - Corno, Chiani - Paglia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino dell'Aterno<br /><b>Toscana</b>: Ombrone Gr-Medio, Ombrone Gr-Alto, Fiora e Albegna, Etruria, Valdelsa-Valdera<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260811_1423.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260811_1423.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260811_1423_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260811_1423_all.zip"
+      }
+    ]
+  }
+}
