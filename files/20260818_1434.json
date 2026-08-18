@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-08-18T12:58:57.230Z",
+  "name": "Bollettino del 18 agosto 2026 ore 14:34",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260818_1434_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260818_1434_today.json",
+    "html_descrition": "<p>Per la giornata di oggi,  martedì 18 agosto 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Calabria</b>: Versante Jionico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino Alto del Sangro, Bacino del Pescara<br /><b>Basilicata</b>: Basi-A1, Basi-B, Basi-E2, Basi-E1, Basi-A2, Basi-D, Basi-C<br /><b>Calabria</b>: Versante Jionico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale<br /><b>Campania</b>: Alta Irpinia e Sannio, Basso Cilento, Tanagro, Piana campana, Napoli, Isole e Area vesuviana, Piana Sele e Alto Cilento, Alto Volturno e Matese, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Puglia</b>: Tavoliere - bassi bacini del Candelaro, Cervaro e Carapelle, Gargano e Tremiti, Salento, Bacini del Lato e del Lenne, Basso Fortore, Puglia Centrale Bradanica, Basso Ofanto, Sub-Appennino Dauno, Puglia Centrale Adriatica<br /><b>Sicilia</b>: Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico, Centro-Meridionale e isole Pelagie<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Bacini Tordino Vomano, Bacino Alto del Sangro, Bacino del Pescara<br /><b>Calabria</b>: Versante Jionico Centro-meridionale, Versante Tirrenico Centro-settentrionale, Versante Tirrenico Centro-meridionale, Versante Tirrenico Meridionale, Versante Jonico Settentrionale, Versante Jonico Centro-settentrionale, Versante Tirrenico Settentrionale, Versante Jonico Meridionale<br /><b>Sicilia</b>: Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Centro-Settentrionale, versante tirrenico, Bacino del Fiume Simeto, Sud-Orientale, versante ionico, Centro-Meridionale e isole Pelagie<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260818_1434.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260818_1434.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260818_1434_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260818_1434_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260818_1434_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani,  mercoledì 19 agosto 2026:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260818_1434.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260818_1434.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260818_1434_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260818_1434_all.zip"
+      }
+    ]
+  }
+}
