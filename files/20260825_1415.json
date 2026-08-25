@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-08-25T12:35:58.372Z",
+  "name": "Bollettino del 25 agosto 2026 ore 14:15",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260825_1415_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260825_1415_today.json",
+    "html_descrition": "<p>Per la giornata di oggi,  martedì 25 agosto 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Alta collina romagnola, Montagna emiliana centrale, Collina emiliana centrale, Montagna romagnola, Alta collina piacentino-parmense, Collina bolognese, Montagna bolognese<br /><b>Lazio</b>: Bacino Medio Tevere, Bacino del Liri, Bacini Costieri Sud, Aniene, Appennino di Rieti<br /><b>Marche</b>: Marc-2, Marc-6, Marc-1, Marc-3, Marc-4, Marc-5<br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Ombrone Gr-Medio, Ombrone Gr-Alto, Fiora e Albegna, Valdichiana, Arno-Casentino, Arno-Valdarno Sup., Valtiberina<br /><b>Umbria</b>: Medio Tevere, Chiascio - Topino, Alto Tevere, Trasimeno - Nestore, Nera - Corno, Chiani - Paglia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Toscana</b>: Ombrone Gr-Medio, Ombrone Gr-Alto, Fiora e Albegna, Valdichiana, Arno-Casentino, Arno-Valdarno Sup., Valtiberina<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260825_1415.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260825_1415.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260825_1415_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260825_1415_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20260825_1415_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani,  mercoledì 26 agosto 2026:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20260825_1415.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20260825_1415.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20260825_1415_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20260825_1415_all.zip"
+      }
+    ]
+  }
+}
