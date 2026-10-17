@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-10-17T13:18:03.894Z",
+  "name": "Bollettino del 17 ottobre 2026 ore 14:58",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20261017_1458_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20261017_1458_today.json",
+    "html_descrition": "<p>Per la giornata di oggi,  sabato 17 ottobre 2026:<br/><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Toscana</b>: Isole, Fiora e Albegna-Costa e Giglio<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Toscana</b>: Isole, Fiora e Albegna-Costa e Giglio<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20261017_1458.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20261017_1458.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20261017_1458_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20261017_1458_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20261017_1458_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani,  domenica 18 ottobre 2026:<br/><b>MODERATA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA ARANCIONE:</b><br /><b>Liguria</b>: Bacini Liguri Marittimi di Centro, Bacini Liguri Padani di Ponente, Bacini Liguri Padani di Levante<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Montagna emiliana centrale, Collina emiliana centrale, Alta collina piacentino-parmense, Montagna bolognese<br /><b>Liguria</b>: Bacini Liguri Marittimi di Ponente, Bacini Liguri Marittimi di Levante<br /><b>Sicilia</b>: Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>Toscana</b>: Isole, Fiora e Albegna-Costa e Giglio<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Piemonte</b>: Scrivia, Toce, Val Sesia, Cervo e Chiusella, Belbo e Bormida<br /><b>Sicilia</b>: Sud-Orientale, versante Stretto di Sicilia, Nord-Orientale, versante ionico, Nord-Orientale, versante tirrenico e isole Eolie, Bacino del Fiume Simeto, Sud-Orientale, versante ionico<br /><b>Toscana</b>: Isole, Fiora e Albegna-Costa e Giglio<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20261017_1458.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20261017_1458.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20261017_1458_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20261017_1458_all.zip"
+      }
+    ]
+  }
+}
