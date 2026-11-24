@@ -1,0 +1,43 @@
+{
+  "type": "first",
+  "date": "2026-11-24T14:27:24.171Z",
+  "name": "Bollettino del 24 novembre 2026 ore 15:15",
+  "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
+  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20261124_1515_style.json",
+  "today": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20261124_1515_today.json",
+    "html_descrition": "<p>Per la giornata di oggi,  martedì 24 novembre 2026:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20261124_1515.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20261124_1515.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20261124_1515_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20261124_1515_all.zip"
+      }
+    ]
+  },
+  "tomorrow": {
+    "topo_json": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20261124_1515_tomorrow.json",
+    "html_descrition": "<p>Per la giornata di domani,  mercoledì 25 novembre 2026:<br/><b>MODERATA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA ARANCIONE:</b><br /><b>Emilia Romagna</b>: Montagna emiliana centrale<br /><b>Lazio</b>: Bacino del Liri<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDRAULICO / ALLERTA GIALLA:</b><br /><b>Campania</b>: Alta Irpinia e Sannio, Piana campana, Napoli, Isole e Area vesuviana, Alto Volturno e Matese<br /><b>Emilia Romagna</b>: Montagna emiliana centrale, Collina emiliana centrale, Collina bolognese, Montagna bolognese<br /><b>Lazio</b>: Bacino del Liri, Bacini Costieri Sud<br /><b>Molise</b>: Alto Volturno - Medio Sangro<br /><b>ORDINARIA CRITICITA' PER RISCHIO TEMPORALI / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino dell'Aterno<br /><b>Molise</b>: Frentani - Sannio - Matese, Litoranea, Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Bisenzio e Ombrone Pt, Serchio-Garfagnana-Lima, Serchio-Costa, Etruria, Valdelsa-Valdera, Valdarno Inf., Arno-Costa, Etruria-Costa Nord, Lunigiana, Reno, Serchio-Lucca, Versilia<br /><b>Umbria</b>: Medio Tevere, Chiascio - Topino, Alto Tevere, Trasimeno - Nestore, Nera - Corno, Chiani - Paglia<br /><b>ORDINARIA CRITICITA' PER RISCHIO IDROGEOLOGICO / ALLERTA GIALLA:</b><br /><b>Abruzzo</b>: Marsica, Bacino Alto del Sangro, Bacino dell'Aterno<br /><b>Campania</b>: Alta Irpinia e Sannio, Basso Cilento, Tanagro, Piana campana, Napoli, Isole e Area vesuviana, Piana Sele e Alto Cilento, Alto Volturno e Matese, Penisola sorrentino-amalfitana, Monti di Sarno e Monti Picentini, Tusciano e Alto Sele<br /><b>Emilia Romagna</b>: Montagna piacentino-parmense, Bassa collina piacentino-parmense, Collina emiliana centrale, Alta collina piacentino-parmense, Collina bolognese, Montagna bolognese<br /><b>Lazio</b>: Bacino Medio Tevere, Bacini Costieri Sud, Aniene, Bacini di Roma, Appennino di Rieti, Bacini Costieri Nord<br /><b>Molise</b>: Frentani - Sannio - Matese, Alto Volturno - Medio Sangro<br /><b>Toscana</b>: Bisenzio e Ombrone Pt, Serchio-Garfagnana-Lima, Serchio-Costa, Etruria, Valdelsa-Valdera, Valdarno Inf., Arno-Costa, Etruria-Costa Nord, Lunigiana, Reno, Serchio-Lucca, Versilia<br /> </p>",
+    "attachment": [
+      {
+        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/pdf/20261124_1515.zip"
+      },
+      {
+        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/xml/20261124_1515.zip"
+      },
+      {
+        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/shp/20261124_1515_shp.zip"
+      },
+      {
+        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/all/20261124_1515_all.zip"
+      }
+    ]
+  }
+}
